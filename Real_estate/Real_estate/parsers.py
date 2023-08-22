@@ -17,15 +17,24 @@ class SalesConvoOutputParser(AgentOutputParser):
     def parse(self, text: str) -> Union[AgentAction, AgentFinish]:
         try:
             logger.info("In Output Parser "+text)
+
             if self.verbose:
                 print("TEXT")
                 print(text)
                 print("-------")
             if f"{self.ai_prefix}:" in text:
                 return AgentFinish(
+
                     {"output": text.split(f"{self.ai_prefix}:")[-1].strip()}, text
                 )
             logger.info("In Output Parser 2"+text)
+            print(text)
+            # image_pattern = r'https?://[^\s]+'
+            # image_match = re.search(image_pattern, text)
+            # action = image_match.group(1)
+            # action_input = image_match.group(2)
+            # if image_match:
+            #     return AgentAction(action.strip(), action_input.strip(" ").strip('"'),text)
             regex = r"Action: (.*?)[\n]*Action Input: (.*)"
             match = re.search(regex, text)
             if not match:
@@ -36,7 +45,7 @@ class SalesConvoOutputParser(AgentOutputParser):
                     },
                     text,
                 )
-                # raise OutputParserException(f"Could not parse LLM output: `{text}`")
+                raise OutputParserException(f"Could not parse LLM output: `{text}`")
             #logger.info("In Output Parser 3"+action)
             action = match.group(1)
             action_input = match.group(2)

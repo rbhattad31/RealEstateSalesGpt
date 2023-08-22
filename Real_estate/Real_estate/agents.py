@@ -12,6 +12,7 @@ from langchain.chains import RetrievalQA
 from langchain.chains.base import Chain
 from langchain.llms import BaseLLM
 from pydantic import BaseModel, Field
+import re
 from langchain.output_parsers import PydanticOutputParser
 
 from Real_estate.chains import SalesConversationChain, StageAnalyzerChain
@@ -45,6 +46,12 @@ container = database.get_container_client(cosmosdb_container_name)
 import streamlit as st
 
 from Real_estate.callbackhandler import MyCustomHandler
+
+
+def add_newlines_around_tag(text, tag="<tag>"):
+    pattern = rf'({re.escape(tag)})'
+    replaced_text = re.sub(pattern, r'\n\1\n', text)
+    return replaced_text
 
 
 class Real_estate(Chain, BaseModel):
@@ -112,15 +119,14 @@ class Real_estate(Chain, BaseModel):
 
     @time_logger
     def step(
-            self, return_streaming_generator: bool = False, model_name="gpt-35-turbo"
-    ):
+            self, return_streaming_generator: bool = False, model_name="gpt-35-turbo", summary: bool = False):
         """
         Args:
             return_streaming_generator (bool): whether or not return
             streaming generator object to manipulate streaming chunks in downstream applications.
         """
         if not return_streaming_generator:
-            self._call(inputs={})
+            self._call(inputs={}, summary=summary)
         else:
             return self._streaming_generator(model_name=model_name)
 
@@ -170,10 +176,10 @@ class Real_estate(Chain, BaseModel):
             messages=messages,
             stop="<END_OF_TURN>",
             stream=True,
-            model=model_name,
+            engine="text-embedding-ada-002"
         )
 
-    def _call(self, inputs: Dict[str, Any]) -> None:
+    def _call(self, inputs: Dict[str, Any], summary) -> None:
         """Run one step of the sales agent."""
 
         # Generate agent's utterance
@@ -238,12 +244,32 @@ class Real_estate(Chain, BaseModel):
         if '<END_OF_TURN>' not in ai_message:
             ai_message += ' <END_OF_TURN>'
         self.conversation_history.append(ai_message)
-        # print(ai_message.replace("<END_OF_TURN>", ""))
-        for i, msg in enumerate(st.session_state.chat_history):
-            if i % 2 == 0:
-                st.chat_message('user').write(msg)
-            else:
-                st.chat_message('assistant').write(msg)
+
+        if summary is False:
+            # print(ai_message.replace("<END_OF_TURN>", ""))
+            for i, msg in enumerate(st.session_state.chat_history):
+                if i % 2 == 0:
+                    pattern = r'https?://[^\s]+'
+                    src_links = re.findall(pattern, msg)
+                    links = []
+                    for link in enumerate(src_links):
+                        links.append(link)
+                    msg = add_newlines_around_tag(msg)
+                    # msg = re.sub(pattern, "", msg)
+                    if links:
+                        # col1, mid, col2 = st.columns([20, 1, 20])
+                        # with col2:
+                        #     for img in links:
+                        #         img1 = re.sub(r'\.jpg.*', '.jpg', img[1])
+                        #         st.image(img1, width=100)
+                        # with col1:
+                        #     st.chat_message('user').write(msg)
+                        st.chat_message('user').markdown(msg, unsafe_allow_html=True)
+                    else:
+                        st.chat_message('user').write(msg)
+                else:
+                    st.chat_message('assistant').write(msg)
+
         return {}
 
     @classmethod

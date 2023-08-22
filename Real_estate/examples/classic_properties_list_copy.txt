@@ -1,0 +1,6046 @@
+[Permit Number : 65489553351
+Reference Number : classicproperties-3610875
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 1300000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Sanctnary
+Property Name : Aurum Villas
+Title : Best Price | 3 Bedroom + Maids | Type R2-EM
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, FF, Maid's Room, Pets Allowed, Shared Pool, Security, SG, CV, Shared Gym
+Size : 1881.75
+Bedrooms : 3
+Bathrooms : 4
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 65489973967
+Reference Number : classicproperties-4926777
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 1500000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Aster
+Property Name : Aurum Villas
+Title : Best Offer | 3 Bed Townhouse | Covered Parking
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, FF, Shared Pool, Security, Shared Gym
+Size : 1881.53
+Bedrooms : 3
+Bathrooms : 4
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7117660862
+Reference Number : classicproperties-3920261
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 82000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Escan Tower
+Title : 2 Bedroom | Unfurnished | 4 Cheques | No Sharing
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Pets Allowed, Shared Pool, View of Water, Security, MT, NM, SM, ML, PT, MO, RT
+Size : 1169.07
+Bedrooms : 2
+Bathrooms : 2
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71418152115
+Reference Number : classicproperties-3815108
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2750000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Luxurious Apt | Prime Location | Spacious Layout
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, Pets Allowed, Shared Pool, Security, PT, MO, RT, Shared Gym, Walk-in Closet
+Size : 1367.77
+Bedrooms : 2
+Bathrooms : 3
+Name : Karan Bang
+Parking : 1
+
+]  [Permit Number : 71401502759
+Reference Number : classicproperties-4421806
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 78000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Binghatti Creek
+Title : Brand New Apartment  | High Floor | Smart Home |
+Amenities : Built-in Wardrobes, Shared Pool, Security, Shared Gym
+Size : 695.35
+Bedrooms : 1
+Bathrooms : 2
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7117300000
+Reference Number : classicproperties-3907640
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 250000
+City : Dubai
+Community : International City
+Sub Community : Morocco Cluster
+Property Name : I14
+Title : Best Deal | Rented Studio | With Balcony
+Completion Status : completed
+Size : 462.85
+Bedrooms : 0
+Bathrooms : 1
+Name : Rahul Bhattad
+
+]  [Permit Number : 7137273606
+Reference Number : classicproperties-4829743
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 39000
+City : Dubai
+Community : Arjan
+Sub Community : Miraclz Tower by Danube
+Title : Studio Apartment | Spacious | Miraclz View
+Size : 404.83
+Bedrooms : 0
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+
+]  [Permit Number : 7126081912
+Reference Number : classicproperties-4810124
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 180000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Stella Maris
+Title : Luxury |Furnished 1 Bed| Brand New |Bills Included
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, MF, SA, Shared Pool, SR, View of Water, Security, MT, NM, ML, PT, MO, BC, RT, Concierge Service, Shared Gym
+Size : 1064.34
+Bedrooms : 1
+Bathrooms : 2
+Name : Richard Ileogben
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 72105196293
+Reference Number : classicproperties-4885208
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 43000
+City : Dubai
+Community : Deira
+Sub Community : Hor Al Anz
+Title : 1BHK Apartment | Near to Bus/Al Qiyadah Metro
+Amenities : BP, Built-in Wardrobes, Private Gym, SA, Security, HO, SM, PT, MO, Shared Gym
+Size : 929
+Bedrooms : 1
+Bathrooms : 2
+Name : Marlyn Arellano
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7150156250
+Reference Number : classicproperties-4946608
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 43000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 14
+Title : Open Kitchen |1 Bed |Balcony |Vacant |Inner Circle
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, Shared Pool, CV, Shared Gym
+Size : 674.68
+Bedrooms : 1
+Bathrooms : 1
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 72105195703
+Reference Number : classicproperties-4885180
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 40000
+City : Dubai
+Community : Deira
+Sub Community : Hor Al Anz
+Title : 1BHK | Spacious | Near to Bus/Al Qiyadah Metro
+Amenities : BP, Built-in Wardrobes, Private Gym, SA, Security, HO, SM, PT, MO, Shared Gym
+Size : 830
+Bedrooms : 1
+Bathrooms : 2
+Name : Marlyn Arellano
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 65352976497
+Reference Number : classicproperties-5191799
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 5200000
+City : Dubai
+Community : Tilal Al Ghaf
+Sub Community : Harmony
+Title : EXCLUSIVE| HARMONY2|4BED |SINGLE ROW| PAYMENT PLAN
+Completion Status : off plan
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Maid's Room, MB, Private Garden, Shared Pool, Security, Shared Gym, Walk-in Closet
+Size : 4650
+Bedrooms : 4
+Bathrooms : 5
+Name : Karan Bang
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 71141731018
+Reference Number : classicproperties-4946010
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 990000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | Fully Furnished | 1 BHK | Great Deal
+Completion Status : completed
+Size : 560.8
+Bedrooms : 1
+Bathrooms : 1
+Name : Anirudh Asawa
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 71401502949
+Reference Number : classicproperties-4672970
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 75000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Binghatti Creek
+Title : Creek view | High Floor | 1 Bed | Alexa Home
+Size : 658
+Bedrooms : 1
+Bathrooms : 1
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71249134418
+Reference Number : classicproperties-5041618
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 85000
+City : Dubai
+Community : Business Bay
+Sub Community : Zada Tower
+Title : Fully Furnished | Prime Location | Brand New
+Size : 481.15
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 65488708959
+Reference Number : classicproperties-5167903
+Offering Type : Residential Rent
+Property Type : Villa/House
+Price on application : No
+Price : 75000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Aquilegia
+Property Name : Just Cavalli Villas
+Title : Roof Top Access| 3 Bedroom Villa | Pool View
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Pets Allowed, Shared Pool, Shared Gym
+Size : 1208.14
+Bedrooms : 3
+Bathrooms : 3
+Name : Madhav Jakhotia
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7112356910
+Reference Number : classicproperties-4931558
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 90000
+City : Dubai
+Community : Dubai Land
+Sub Community : Queue Point
+Property Name : Mazaya 28
+Title : Huge | 3 Bedroom Apt | With Balcony | 2 Parking
+Size : 1745
+Bedrooms : 3
+Bathrooms : 3
+Name : Mahar Ali Shah
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 722081515986
+Reference Number : classicproperties-4881616
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 75000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Size : 777
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 722081518036
+Reference Number : classicproperties-4871431
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Size : 878
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+
+]  [Permit Number : 722081515536
+Reference Number : classicproperties-4871457
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 75000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Size : 777
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081517886
+Reference Number : classicproperties-4872952
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Amenities : Built-in Wardrobes, Central A/C & Heating, Shared Gym
+Size : 878
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081515486
+Reference Number : classicproperties-4871447
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Size : 878
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081517936
+Reference Number : classicproperties-4873058
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Amenities : Built-in Wardrobes, Central A/C & Heating, Shared Gym
+Size : 893
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081516386
+Reference Number : classicproperties-4877219
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Amenities : Built-in Wardrobes, Security, Shared Gym
+Size : 828
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081515836
+Reference Number : classicproperties-4881589
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Size : 878
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081515886
+Reference Number : classicproperties-4881609
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Size : 878
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081516336
+Reference Number : classicproperties-4884478
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Amenities : Built-in Wardrobes, Central A/C & Heating, Shared Gym
+Size : 878
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081515786
+Reference Number : classicproperties-4884471
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Amenities : Built-in Wardrobes, Central A/C & Heating, Shared Gym
+Size : 893
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081515736
+Reference Number : classicproperties-4884465
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Amenities : Built-in Wardrobes, Central A/C & Heating, Shared Gym
+Size : 893
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7161111590
+Reference Number : classicproperties-5146527
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 40000
+City : Dubai
+Community : Dubai Production City (IMPZ)
+Sub Community : Oakwood Residency
+Title : Vacant| 1 BHK | Open Kitchen | Near City Center
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, MF, Shared Pool, Security, CV, SM, ML, PT, RT, Shared Gym
+Size : 594
+Bedrooms : 1
+Bathrooms : 1
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081515686
+Reference Number : classicproperties-4881652
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Size : 878
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 2
+
+]  [Permit Number : 722081515936
+Reference Number : classicproperties-4872806
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Amenities : Built-in Wardrobes, Central A/C & Heating, Shared Gym
+Size : 828
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 722081517986
+Reference Number : classicproperties-4873174
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : DXB Tower
+Title : EID Promotion till 10th July |15 Days Grace Period
+Amenities : Built-in Wardrobes, Central A/C & Heating, Shared Gym
+Size : 893
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7161112820
+Reference Number : classicproperties-5151136
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 550000
+City : Dubai
+Community : Dubai Production City (IMPZ)
+Sub Community : Oakwood Residency
+Title : Large | Vacant | One Bed | Higher Floor|
+Completion Status : completed
+Amenities : Balcony, BP, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, MB, HF, Shared Pool, Security, CV, SM, ML, PT, RT, Shared Spa, Shared Gym, Walk-in Closet
+Size : 881
+Bedrooms : 1
+Bathrooms : 1
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7132466003
+Reference Number : classicproperties-4474086
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 140000
+City : Dubai
+Community : Business Bay
+Sub Community : Paramount Tower Hotel & Residences
+Title : Low Floor |Full Burj View | 2BHK | Luxurious Tower
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Shared Pool, CV, Shared Gym
+Size : 1287.58
+Bedrooms : 2
+Bathrooms : 2
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7267879000
+Reference Number : classicproperties-5185514
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 110000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : 21st Century Tower
+Title : 3 bed | Prime Location |Closed Kitchen | Burj View
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Shared Pool, Security, Shared Gym
+Size : 1335
+Bedrooms : 3
+Bathrooms : 3
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71360697333
+Reference Number : classicproperties-4854057
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 515000
+City : Dubai
+Community : Rukan
+Sub Community : Rukan 2
+Title : Amazing Studio | Spacious | Pool and Park Views
+Completion Status : off plan
+Size : 426
+Bedrooms : 0
+Bathrooms : 1
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7117661154
+Reference Number : classicproperties-4499509
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 60000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Escan Tower
+Title : 1 Bedroom | Unfurnished | High Floor | 4 Cheques
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, MF, Pets Allowed, Shared Pool, Security, NM, SM, ML, PT, MO, RT
+Size : 755.3
+Bedrooms : 1
+Bathrooms : 1
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71149925178
+Reference Number : classicproperties-3982932
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 580000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | Studio Apartment | Accessible location
+Completion Status : off plan
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Built-in Kitchen Appliances, SA, Shared Pool, Security, ML, Shared Gym
+Size : 314.5
+Bedrooms : 0
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 65490063568
+Reference Number : classicproperties-4935266
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 1750000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Claret
+Property Name : Aurum Villas
+Title : 4 Bed+Maid's| Gated community| Closed Kitchen|
+Completion Status : completed
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, LF, Pets Allowed, Shared Pool, IC, CV, CW, PK, Walk-in Closet
+Size : 1881.53
+Bedrooms : 4
+Bathrooms : 5
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 69317934293
+Reference Number : classicproperties-5167895
+Offering Type : Residential Rent
+Property Type : Townhouse
+Price on application : No
+Price : 70000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Albizia
+Title : Exclusive Deal l 3 Bed Villa l Ready To Move In
+Amenities : Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Pets Allowed, Security, CV
+Size : 1208
+Bedrooms : 3
+Bathrooms : 3
+Name : Vatche Saghdejian
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 71152814978
+Reference Number : classicproperties-4712896
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 750000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | Studio Apartment | White Goods | Azizi
+Completion Status : completed
+Size : 404.72
+Bedrooms : 0
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+
+]  [Permit Number : 65396526200
+Reference Number : classicproperties-5085448
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 6000000
+City : Dubai
+Community : Al Furjan
+Sub Community : Tilal Al Furjan
+Title : Exclusive | Large Plot | Best Location | 4Bed+Maid
+Completion Status : off_plan_primary
+Amenities : Balcony, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Maid's Room, Pets Allowed, GA, Private Garden, Study, Security, SG, CV, NS, HO, TR, SM, ML, PT, MO, VT, PK, RT, NG, Concierge Service, Shared Gym, Walk-in Closet
+Size : 4782
+Bedrooms : 4
+Bathrooms : 5
+Name : Kiran Shetty
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7117661080
+Reference Number : classicproperties-4497045
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Escan Tower
+Title : Hot Deal | 2 Bedroom | Unfurnished | 80k 4cheques
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Shared Pool, View of Water, Security, MT, NM, SM, ML, PT, MO, RT
+Size : 1104.92
+Bedrooms : 2
+Bathrooms : 2
+Name : Richard Ileogben
+Parking : 1
+
+]  [Permit Number : 7117688769
+Reference Number : classicproperties-5167052
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 37000
+City : Dubai
+Community : DAMAC Hills
+Sub Community : The Drive
+Property Name : Carson
+Title : STUDIO WITH KITCHEN EQUIPMENTS - DAMAC HILLS 1
+Amenities : Balcony, BP, BB, SA, Shared Pool, SR, Security, HO, ML, NG, Shared Gym
+Size : 404.94
+Bedrooms : 0
+Bathrooms : 1
+Name : Suneer Kollatt Ameer
+Parking : 1
+
+]  [Permit Number : 7123832300
+Reference Number : classicproperties-4962094
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 140000
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Lake Almas East
+Property Name : Al Sheraa Tower
+Title : 2 Bedroom | Maid Room | High Floor | Unfurnished
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, Maid's Room, HF, Pets Allowed, SA, Shared Pool, SR, View of Water, Security, MT, SG, ML, PT, MO, RT, Shared Gym
+Size : 1784
+Bedrooms : 2
+Bathrooms : 3
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7117660984
+Reference Number : classicproperties-4499295
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 60000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Escan Tower
+Title : 1 Bed Apt with Balcony | High Floor | 4 Cheques
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, MF, Pets Allowed, Shared Pool, Security, NM, SM, ML, PT, MO, RT
+Size : 659.94
+Bedrooms : 1
+Bathrooms : 1
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7117660903
+Reference Number : classicproperties-4495943
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 82000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Escan Tower
+Title : Spacious 2 Bedroom | Unfurnished | Family only
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Pets Allowed, Shared Pool, Security, MT, NM, SM, ML, PT, MO, BC, RT
+Size : 1103.41
+Bedrooms : 2
+Bathrooms : 2
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7117661016
+Reference Number : classicproperties-4585738
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 60000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Escan Tower
+Title : 1 Bedroom | Unfurnished | 4 Cheques | No Sharing
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Pets Allowed, Shared Pool, Security, MT, NM, SM, ML, PT, MO, RT
+Size : 755.3
+Bedrooms : 1
+Bathrooms : 1
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7117661128
+Reference Number : classicproperties-4585713
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Escan Tower
+Title : 2 Bedroom | Unfurnished | High Floor | 4 Cheques
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Pets Allowed, Shared Pool, Security, MT, NM, SM, ML, PT, MO, RT
+Size : 1168.96
+Bedrooms : 2
+Bathrooms : 2
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7117660931
+Reference Number : classicproperties-5014940
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 84000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Escan Tower
+Title : Cozy 1 Bedroom | Fully Furnished | Renovated
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, LF, Pets Allowed, Shared Pool, Security, MT, SM, ML, PT, MO, RT
+Size : 778.23
+Bedrooms : 1
+Bathrooms : 2
+Name : Richard Ileogben
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7117660936
+Reference Number : classicproperties-4521797
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 63000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Escan Tower
+Title : 1 Bedroom Apartment | Unfurnished | Near Metro
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Pets Allowed, Shared Pool, View of Water, Security, NM, SM, ML, PT, MO, BC, RT
+Size : 836.57
+Bedrooms : 1
+Bathrooms : 1
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7124755900
+Reference Number : classicproperties-5029836
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 200000
+City : Dubai
+Community : Palm Jumeirah
+Sub Community : Marina Residences
+Property Name : Marina Residences 4
+Title : Hot Deal | Spacious 2 Bedroom | Apt | 4 Cheques
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, Pets Allowed, SA, Shared Pool, SR, View of Water, Security, MT, TR, SM, ML, RT, Shared Gym, Walk-in Closet
+Size : 1870
+Bedrooms : 2
+Bathrooms : 3
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7125177400
+Reference Number : classicproperties-4705891
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 52500
+City : Dubai
+Community : Dubai Marina
+Sub Community : Zumurud Tower
+Title : Studio Flat |Chiller Free | Near Metro | 4 Cheque
+Amenities : BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, HF, Pets Allowed, SA, Shared Pool, SR, Security, MT, NM, SM, ML, PT, MO, BC, RT, Shared Gym
+Size : 370
+Bedrooms : 0
+Bathrooms : 1
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 69382651553
+Reference Number : classicproperties-5173779
+Offering Type : Residential Rent
+Property Type : Villa/House
+Price on application : No
+Price : 70000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Avencia 2
+Title : 3 BR Villa | Clean & Good Condition | Avencia
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, Pets Allowed, Shared Pool, Security, CV, Shared Gym
+Size : 1208.14
+Bedrooms : 3
+Bathrooms : 3
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7122851000
+Reference Number : classicproperties-5111494
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 115000
+City : Dubai
+Community : Dubai Marina
+Sub Community : DEC Towers
+Property Name : DEC Tower 2
+Title : Spacious 2 Bed | Full Marina View | High Floor
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Pets Allowed, SA, Shared Pool, SR, View of Water, Security, MT, SG, NM, SM, ML, PT, MO, BC, RT, Shared Gym
+Size : 1490.8
+Bedrooms : 2
+Bathrooms : 3
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7117594292
+Reference Number : classicproperties-3760923
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 300000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : The Address Residence Fountain Views
+Property Name : The Address Residence Fountain Views 1
+Title : High Floor | Fully Furnished I 2BHK | Burj View
+Size : 1447.1
+Bedrooms : 2
+Bathrooms : 3
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7137287350
+Reference Number : classicproperties-4929227
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 40000
+City : Dubai
+Community : Arjan
+Sub Community : Miraclz Tower by Danube
+Title : Studio Apartment |Nicely Furnished |Great Location
+Amenities : BP, FF, Built-in Kitchen Appliances, HF, Shared Pool, Security, NS, SM, RT, Shared Gym
+Size : 390.3
+Bedrooms : 0
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+
+]  [Permit Number : 7114931916
+Reference Number : classicproperties-3815150
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 60000
+City : Dubai
+Community : Arjan
+Sub Community : Lincoln Park
+Property Name : Lincoln Park - Sheffield
+Title : One Bed Spacious| Amazing Location| Chiller Free
+Size : 922.9
+Bedrooms : 1
+Bathrooms : 2
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71148244774
+Reference Number : classicproperties-4911788
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 625000
+City : Dubai
+Community : Dubai Residence Complex
+Sub Community : K1
+Title : Stunning| Rented|1 BHK  Apartment| Terrace
+Completion Status : completed
+Size : 1981.42
+Bedrooms : 1
+Bathrooms : 2
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7125164100
+Reference Number : classicproperties-4691941
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Zumurud Tower
+Title : 1 Bedroom Apt | Free Chiller | Near Metro | Marina
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, HF, Pets Allowed, SA, Shared Pool, SR, View of Water, Security, MT, NM, SM, ML, PT, MO, RT, Shared Gym
+Size : 814.3
+Bedrooms : 1
+Bathrooms : 1
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71249136580
+Reference Number : classicproperties-4372686
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 68000
+City : Dubai
+Community : Business Bay
+Sub Community : Zada Tower
+Title : Brand New|Prime Location|Beautiful View|Zada Tower
+Size : 468.77
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Partly
+
+]  [Permit Number : 71358760375
+Reference Number : classicproperties-4400495
+Offering Type : Commercial Sale
+Property Type : Hotel Apartment
+Price on application : No
+Price : 1200000
+City : Dubai
+Community : Palm Jumeirah
+Sub Community : Seven Palm
+Title : Investor Deal | Resale | Studio Flat | High ROI
+Completion Status : completed
+Amenities : Balcony, BP, AN, Central A/C & Heating, LF, Shared Pool, Security, MT, SG, SM, RT, Shared Gym
+Size : 354.67
+Bathrooms : 1
+Name : Richard Ileogben
+Parking : 1
+
+]  [Permit Number : 7123705162
+Reference Number : classicproperties-4705860
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2600000
+City : Dubai
+Community : Business Bay
+Sub Community : Paramount Tower Hotel & Residences
+Title : LUXURY |SEAFRONT | APARTMENT | HIGH FLOOR
+Completion Status : completed
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, HF, SA, Shared Pool, SR, View of Water, Security, TR, NM, SM, ML, PT, MO, RT, Concierge Service, Shared Spa, Shared Gym
+Size : 1167
+Bedrooms : 2
+Bathrooms : 2
+Name : Rehan Akhter
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7143387770
+Reference Number : classicproperties-4705068
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 45000
+City : Dubai
+Community : Remraam
+Sub Community : Al Ramth
+Property Name : Al Ramth 57
+Title : 1 Bedroom l Closed Kitchen | Balcony | Al Ramth
+Amenities : Balcony, BB, Built-in Wardrobes, Shared Pool, Security, CV, SM, RT, Shared Gym
+Size : 776.51
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 69356670937
+Reference Number : classicproperties-5095044
+Offering Type : Residential Rent
+Property Type : Townhouse
+Price on application : No
+Price : 115000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : The Roots DAMAC Hills 2
+Property Name : Janusia
+Title : 3 Bedroom | Corner Plot | Akoya Oxygen
+Amenities : Balcony, BB, Built-in Wardrobes, Covered Parking, Maid's Room, Shared Pool, CV, SM, Shared Gym
+Size : 2450
+Bedrooms : 3
+Bathrooms : 5
+Name : Hagop Dekermenjian
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 71321682504
+Reference Number : classicproperties-5175006
+Offering Type : Commercial Rent
+Property Type : Shop
+Price on application : No
+Price : 150000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera 4
+Title : Chiller Free |Good Community | 14 Month |Exclusive
+Size : 281.48
+Bathrooms : 1
+Name : Ashwin Kalantri
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7137429438
+Reference Number : classicproperties-4927179
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1000000
+City : Dubai
+Community : Dubai Healthcare City
+Sub Community : Azizi Aliyah
+Title : Spacious | 1 Bedroom | Vacant | Furnished | Aliyah
+Completion Status : completed
+Amenities : Balcony, BP, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, MB, MF, SA, Shared Pool, SR, GR, Security, MT, IS, BT, CV, CW, NS, HO, TR, NM, SM, ML, PT, MO, VT, PK, RT, NG, AP, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1197.92
+Bedrooms : 1
+Bathrooms : 2
+Name : Kiran Shetty
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 69315265295
+Reference Number : classicproperties-5095043
+Offering Type : Residential Rent
+Property Type : Townhouse
+Price on application : No
+Price : 70000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Mimosa
+Title : Great Deal | 3 bedroom | Terrace | DAMAC Hills 2
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Shared Pool, TR, Shared Gym
+Size : 1238.6
+Bedrooms : 3
+Bathrooms : 3
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7127673572
+Reference Number : classicproperties-4866457
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 200000
+City : Dubai
+Community : Dubai Creek Harbour (The Lagoons)
+Sub Community : Harbour Views 2
+Title : Hot Deal | Amazing View | Vacant by July
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Pets Allowed, Shared Pool, View of Water, CW, Shared Gym
+Size : 1708
+Bedrooms : 3
+Bathrooms : 4
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7266487000
+Reference Number : classicproperties-5172019
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 40000
+City : Dubai
+Community : Bur Dubai
+Sub Community : Mankhool
+Property Name : Al Salam Residence
+Title : Best Deal | 1Bedroom Apartment | Bur Dubai |
+Amenities : Security, NS, NM, SM, PT, MO, RT
+Size : 418
+Bedrooms : 1
+Bathrooms : 1
+Name : Marlyn Arellano
+Furnished : No
+
+]  [Permit Number : 7154237580
+Reference Number : classicproperties-5171991
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 33000
+City : Dubai
+Community : International City
+Sub Community : Emirates Cluster
+Title : EMIRATES CLUSTER | 1 BEDROOM | WITH BALCONY
+Size : 744.86
+Bedrooms : 1
+Bathrooms : 2
+Name : Mahar Ali Shah
+Furnished : No
+
+]  [Permit Number : 71138894142
+Reference Number : classicproperties-5152819
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 220000
+City : Dubai
+Community : Living Legends
+Sub Community : Hercules
+Title : Full Golf Course View | Large 4Bed |Hercules Tower
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, MF, Shared Pool, Security, BT, CV, GV, NS, HO, NM, SM, ML, PT, RT, NG, Concierge Service, Shared Gym, Walk-in Closet
+Size : 4000
+Bedrooms : 4
+Bathrooms : 5
+Name : Kiran Shetty
+Parking : 3
+Furnished : No
+
+]  [Permit Number : 7154237610
+Reference Number : classicproperties-5172026
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 33000
+City : Dubai
+Community : International City
+Sub Community : Emirates Cluster
+Title : EMIRATES CLUSTER | 1 BEDROOM | BALCONY
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, MF, Pets Allowed, Security, CV, HO, SM, ML, PT, RT, AP, Walk-in Closet
+Size : 743.14
+Bedrooms : 1
+Bathrooms : 2
+Name : Mahar Ali Shah
+Furnished : No
+
+]  [Permit Number : 7128805700
+Reference Number : classicproperties-4936652
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 105000
+City : Dubai
+Community : Dubai Land
+Sub Community : Al Waha Villas
+Title : Ground Floor With Garden | 2Bed Townhome| Vacant|
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, LF, Pets Allowed, GA, Shared Pool, UI, GR, Security, MT, SG, CV, CW, NS, HO, SM, ML, PT, PK, NG, AP, Shared Gym, Walk-in Closet, HT
+Size : 1824
+Bedrooms : 2
+Bathrooms : 2
+Name : Muhammad Jamil Ahmad Muhammad
+Furnished : No
+
+]  [Permit Number : 7118050100
+Reference Number : classicproperties-4397428
+Offering Type : Residential Rent
+Property Type : Duplex
+Price on application : No
+Price : 250000
+City : Dubai
+Community : World Trade Center
+Sub Community : World Trade Centre Residence
+Property Name : Jumeirah Living
+Title : 2 Bed + Maids Duplex | 4 Cheques | Vacant
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Private Jacuzzi, Built-in Kitchen Appliances, Maid's Room, MB, MF, Shared Pool, GR, Security, MT, SG, CV, NS, HO, SM, ML, PT, MO, RT, AP, Concierge Service, Shared Gym
+Size : 2110
+Bedrooms : 2
+Bathrooms : 3
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7125135727
+Reference Number : classicproperties-5047257
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 35000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Viridis Residence and Hotel Apartments
+Property Name : Viridis C
+Title : Brand New | Beautiful Studio | High Floor
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, FF, Shared Pool, Shared Gym
+Size : 422
+Bedrooms : 0
+Bathrooms : 1
+Name : Lata Poojary
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7131939400
+Reference Number : classicproperties-5022179
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 07
+Title : Exquisite 2bed| Terrace unit| Semi Closed Kitchen
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Security
+Size : 1501
+Bedrooms : 2
+Bathrooms : 3
+Name : Anirudh Asawa
+
+]  [Permit Number : 7129048700
+Reference Number : classicproperties-4885602
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 650000
+City : Dubai
+Community : Dubai Land
+Sub Community : Skycourts Towers
+Property Name : Skycourts Tower D
+Title : 2 Bedroom | Spacious Balcony | Amazing View
+Completion Status : completed
+Amenities : Balcony, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Shared Pool, GR, Security, BT, CV, NS, HO, SM, ML, PT, PK, RT, Shared Gym, Walk-in Closet
+Size : 1268
+Bedrooms : 2
+Bathrooms : 2
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7132103900
+Reference Number : classicproperties-3401121
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 76294
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Mazaya Business Avenue
+Property Name : Mazaya Business Avenue AA1
+Title : JLT Canal View | Shell and Core | Multiple Cheques
+Amenities : BP, Central A/C & Heating, Covered Parking, HF, MF, Security, MT, SM, PT, MO, RT, DN, RA, VP, SH, NH
+Size : 1695
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7132104500
+Reference Number : classicproperties-3401115
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 56701
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Mazaya Business Avenue
+Property Name : Mazaya Business Avenue AA1
+Title : Shell and Core | Canal and Jumeirah Island View
+Amenities : BP, AN, Central A/C & Heating, Covered Parking, HF, MF, Security, SM, PT, MO, RT, DN, RA, VP, SH, NH
+Size : 1260
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7132068300
+Reference Number : classicproperties-3959427
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 76236
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Mazaya Business Avenue
+Property Name : Mazaya Business Avenue AA1
+Title : Shell and Core | 2 Months Free | Lake View
+Amenities : BP, Central A/C & Heating, Covered Parking, LF, Security, NM, SM, PT, MO, RT, RA, VP, SH, NH
+Size : 1694.13
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7132068200
+Reference Number : classicproperties-3959431
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 79074
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Mazaya Business Avenue
+Property Name : Mazaya Business Avenue AA1
+Title : 2 Month Free | Shell and Core Office | Vacant
+Amenities : Balcony, BP, Central A/C & Heating, Covered Parking, LF, Security, SM, PT, MO, RT, RA, VP, SH, NH
+Size : 1757.21
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7132068000
+Reference Number : classicproperties-3959428
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 57040
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Mazaya Business Avenue
+Property Name : Mazaya Business Avenue AA1
+Title : Shell and Core | Vacant | JLT Skyline View
+Amenities : Balcony, BP, Central A/C & Heating, Covered Parking, LF, Security, SM, PT, MO, RT, RA, VP, OP, NH
+Size : 1267
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7132067800
+Reference Number : classicproperties-4014386
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 64640
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Mazaya Business Avenue
+Property Name : Mazaya Business Avenue AA1
+Title : Ready to Move In | 4 Cheques | Shell and Core
+Amenities : BP, Central A/C & Heating, Covered Parking, LF, Security, NM, SM, PT, MO, RT, RA, VP, SH, NH
+Size : 1436.44
+Name : Rakesh Saldanha
+Furnished : No
+
+]  [Permit Number : 7132067700
+Reference Number : classicproperties-4014280
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 50327
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Mazaya Business Avenue
+Property Name : Mazaya Business Avenue AA1
+Title : Shell and Core | Ready to Move In | 4 Cheques
+Amenities : BP, Central A/C & Heating, Covered Parking, LF, Security, SM, PT, MO, RT, RA, VP, SH, NH
+Size : 1118.37
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71141737974
+Reference Number : classicproperties-4493036
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 550000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New| Studio Apartment| White Goods
+Completion Status : completed
+Amenities : Built-in Wardrobes, Built-in Kitchen Appliances, Shared Pool, CV, Shared Gym
+Size : 321.84
+Bedrooms : 0
+Bathrooms : 1
+Name : Anirudh Asawa
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7125134239
+Reference Number : classicproperties-5042402
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 50000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Viridis Residence and Hotel Apartments
+Property Name : Viridis B
+Title : Beautiful Brand New | 1 Bedroom | High Floor
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Pets Allowed, Shared Pool, CV, Shared Gym
+Size : 749.81
+Bedrooms : 1
+Bathrooms : 1
+Name : Anirudh Asawa
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 69379619665
+Reference Number : classicproperties-5097613
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 1850000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : The Pulse
+Property Name : The Pulse Villas
+Title : Best Offer| Brand new| Luxury | 3Bed| Ready Soon|
+Completion Status : off plan
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Maid's Room, LF, Pets Allowed, Shared Pool, UI, GR, Security, MT, IC, SG, CV, NS, HO, TR, NM, SM, ML, PT, PK, RT, NG, AP, Shared Gym, Walk-in Closet, HT
+Size : 2168.5
+Bedrooms : 3
+Bathrooms : 4
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+
+]  [Permit Number : 69379615201
+Reference Number : classicproperties-4437301
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2300000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : The Pulse
+Property Name : The Pulse Villas
+Title : Best Offer| Corner Unit| Brand new| Handover Soon|
+Completion Status : off plan
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Shared Pool, Security, CV, Shared Gym
+Size : 2677.52
+Bedrooms : 4
+Bathrooms : 5
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+
+]  [Permit Number : 7122873500
+Reference Number : classicproperties-4793630
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 100000
+City : Dubai
+Community : Dubai Marina
+Sub Community : DEC Towers
+Property Name : DEC Tower 1
+Title : Upgraded | Furnished 1 Bedroom | Partial Sea View
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, HF, Pets Allowed, SA, Shared Pool, SR, UI, View of Water, Security, MT, NM, SM, ML, PT, MO, BC, RT, Shared Gym
+Size : 823.44
+Bedrooms : 1
+Bathrooms : 2
+Name : Richard Ileogben
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 71141728762
+Reference Number : classicproperties-4873535
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 38999
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | Studio Apartment | Great Pool View
+Amenities : Built-in Wardrobes, Built-in Kitchen Appliances, Shared Pool, CV, Shared Gym
+Size : 321.63
+Bedrooms : 0
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7115504000
+Reference Number : classicproperties-5048026
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 130000
+City : Dubai
+Community : Jumeirah Beach Residence
+Sub Community : Rimal
+Property Name : Rimal 4
+Title : Spacious 2 Bedroom | Marina View | High Floor
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Pets Allowed, Shared Pool, View of Water, Security, MT, SM, ML, PT, MO, BC, RT, Shared Gym
+Size : 1395.5
+Bedrooms : 2
+Bathrooms : 3
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 0870402961
+Reference Number : classicproperties-5162176
+Offering Type : Residential Sale
+Property Type : Land/Plot
+Price on application : No
+Price : 11055000
+City : Dubai
+Community : Mohammed Bin Rashid City
+Sub Community : District 7
+Property Name : Keturah Reserve
+Title : Corner Plot | Free Hold | ]  [Permit to Built Villa
+Amenities : Covered Parking, Private Garden, Shared Pool, GR, Security, CW, Shared Gym
+Size : 6716.67
+Name : Rakesh Saldanha
+
+]  [Permit Number : 7130937600
+Reference Number : classicproperties-4898321
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 44000
+City : Dubai
+Community : International City
+Sub Community : Prime Residency
+Property Name : Prime Residency 1
+Title : Chiller Free | 2 BHK | Prime Residence High Floor
+Size : 968
+Bedrooms : 2
+Bathrooms : 2
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 65491036450
+Reference Number : classicproperties-3760874
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 1600000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : The Roots DAMAC Hills 2
+Property Name : Janusia
+Title : Best Deal |3bed plus Maids| Community View
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Pets Allowed, Shared Pool, Security, CV, Shared Gym
+Size : 1881.54
+Bedrooms : 3
+Bathrooms : 4
+Name : Hagop Dekermenjian
+Parking : 2
+
+]  [Permit Number : 71149584230
+Reference Number : classicproperties-5066716
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 59999
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | Exquisite 1 Bedroom Apt | Great View
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, FF, Shared Pool, Security, Shared Gym
+Size : 489
+Bedrooms : 1
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+
+]  [Permit Number : 71141727728
+Reference Number : classicproperties-4876684
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 39999
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | Studio Apartment | Great View
+Amenities : Built-in Wardrobes, Built-in Kitchen Appliances, Shared Pool, CV, Shared Gym
+Size : 332.39
+Bedrooms : 0
+Bathrooms : 1
+Name : Anirudh Asawa
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71150506404
+Reference Number : classicproperties-3996441
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 58000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | 1 Bedroom Apartment | For Rent | Azizi
+Amenities : Balcony, Built-in Wardrobes, FF, Shared Pool, Security, Shared Gym
+Size : 476.73
+Bedrooms : 1
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+Furnished : Partly
+
+]  [Permit Number : 71136091667
+Reference Number : classicproperties-4992772
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 42999
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Burj Khalifa & Lagoon View | Brand New Studio
+Amenities : Balcony, Central A/C & Heating, FF, Shared Pool, Security, CW, Shared Gym
+Size : 385.56
+Bedrooms : 0
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+
+]  [Permit Number : 0870402961
+Reference Number : classicproperties-5168389
+Offering Type : Residential Sale
+Property Type : Land/Plot
+Price on application : No
+Price : 14410000
+City : Dubai
+Community : Mohammed Bin Rashid City
+Sub Community : District 7
+Property Name : Keturah Reserve
+Title : Luxury Villa Plot | Free Hold | Prime Location
+Amenities : Covered Parking, Private Garden, Shared Pool, GR, Security, Shared Gym
+Size : 8757
+Name : Rakesh Saldanha
+
+]  [Permit Number : 0870402961
+Reference Number : classicproperties-5168482
+Offering Type : Residential Sale
+Property Type : Land/Plot
+Price on application : No
+Price : 20233000
+City : Dubai
+Community : Mohammed Bin Rashid City
+Sub Community : District 7
+Property Name : Keturah Reserve
+Title : Limited Villa Plot | Free Hold | Prime Location
+Amenities : Covered Parking, Private Garden, Shared Pool, GR, Security, CW, Shared Gym
+Size : 12290.97
+Name : Rakesh Saldanha
+
+]  [Permit Number : 71418148600
+Reference Number : classicproperties-5166973
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 95000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Spacious Layout | Prime Location | Next to Metro
+Amenities : Balcony, BP, Built-in Wardrobes, Covered Parking, Pets Allowed, Shared Pool, WF, Security, BT, NM, SM, PT, MO, RT, Shared Gym
+Size : 888.24
+Bedrooms : 1
+Bathrooms : 1
+Name : Karan Bang
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7131220400
+Reference Number : classicproperties-3188272
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1650000
+City : Dubai
+Community : Business Bay
+Sub Community : Churchill Towers
+Property Name : Churchill Residency Tower
+Title : Full Canal View | 2 BHK Apartment | Higher Floor
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MB, HF, Pets Allowed, Shared Pool, View of Water, Security, CV, SM, ML, PT, MO, RT, Shared Gym
+Size : 1270.03
+Bedrooms : 2
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 65489168745
+Reference Number : classicproperties-5048278
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 990000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Albizia
+Title : Exclusive Deal l3 Bed Villa l Agent on site
+Completion Status : completed
+Amenities : Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Pets Allowed, Security, CV
+Size : 1208
+Bedrooms : 3
+Bathrooms : 3
+Name : Vatche Saghdejian
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 71418148600
+Reference Number : classicproperties-5034206
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1550000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Spacious Layout | Prime Location | Next to Metro
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Covered Parking, Pets Allowed, Shared Pool, WF, Security, BT, NM, SM, PT, MO, RT, Shared Gym
+Size : 888.24
+Bedrooms : 1
+Bathrooms : 1
+Name : Anirudh Asawa
+Furnished : Yes
+
+]  [Permit Number : 69273176452
+Reference Number : classicproperties-4945387
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2000000
+City : Dubai
+Community : Dubai Land
+Sub Community : Villanova
+Property Name : La Rosa
+Title : La Rosa 2 | Type 3M | 3 Bed + Maid | Handover Soon
+Completion Status : off plan
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Maid's Room, GA, Private Garden, Shared Pool, Security, CV, CW, NM, SM, PT, PK, Shared Gym, Walk-in Closet, HT
+Size : 1936
+Bedrooms : 3
+Bathrooms : 4
+Name : Kiran Shetty
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 65382235082
+Reference Number : classicproperties-4721714
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 2900000
+City : Dubai
+Community : Damac Lagoons
+Sub Community : Santorini
+Title : 5 BEDROOM TOWNHOUSE - HANDOVER 2024 Q3 - RESALE
+Completion Status : off plan
+Amenities : Shared Pool, Shared Gym
+Size : 2364
+Bedrooms : 5
+Bathrooms : 6
+Name : Suneer Kollatt Ameer
+
+]  [Permit Number : 7127131718
+Reference Number : classicproperties-5159060
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 650000
+City : Dubai
+Community : Al Furjan
+Sub Community : Starz by Danube
+Title : Close to Metro| Fully Furnished |One bed Apartment
+Completion Status : completed
+Size : 699.33
+Bedrooms : 1
+Bathrooms : 2
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7267680000
+Reference Number : classicproperties-5166699
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 95000
+City : Dubai
+Community : Sheikh Zayed Road
+Sub Community : 21st Century Tower
+Title : 2 bed Apartment | Prime Location | Closed Kitchen
+Amenities : Built-in Wardrobes, Central A/C & Heating, Covered Parking, Shared Pool, Security, ML, PT, MO, Shared Gym
+Size : 1154
+Bedrooms : 2
+Bathrooms : 2
+Name : Ashwin Kalantri
+
+]  [Permit Number : 71408445349
+Reference Number : classicproperties-4390132
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2100000
+City : Dubai
+Community : Al Furjan
+Sub Community : Pearlz by Danube
+Title : Genuine Resale | Prime Location | Next to Metro
+Completion Status : off plan
+Amenities : Balcony, BP, AN, Covered Parking, Shared Pool, Security, MT, BT, NS, HO, SM, PT, PK, RT, Shared Gym, Walk-in Closet
+Size : 1661.6
+Bedrooms : 3
+Bathrooms : 3
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7122881300
+Reference Number : classicproperties-5098237
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 75600
+City : Dubai
+Community : Dubai Marina
+Sub Community : DEC Towers
+Property Name : DEC Tower 1
+Title : Monthly Payment | Studio Flat | All Bills Included
+Amenities : Balcony, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, LF, Pets Allowed, SA, Shared Pool, SR, Security, MT, SM, ML, PT, MO, BC, RT, Shared Gym, HT
+Size : 517.74
+Bedrooms : 0
+Bathrooms : 1
+Name : Richard Ileogben
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7144927320
+Reference Number : classicproperties-3729131
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1100000
+City : Dubai
+Community : Remraam
+Sub Community : Al Ramth
+Property Name : Al Ramth 37
+Title : Double Balcony I 3 Bedroom Apartment I SC Kitchen
+Completion Status : completed
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Pets Allowed
+Size : 1496
+Bedrooms : 3
+Bathrooms : 4
+Name : Rahul Bhattad
+Parking : 2
+
+]  [Permit Number : 7149807340
+Reference Number : classicproperties-4380199
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 670000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 49
+Title : Rented Unit  | Large 2bed | Closer to Pool
+Completion Status : completed
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, LF, Pets Allowed, Shared Pool, MT, IC, CV, NS, NM, RT, Shared Gym, Maid Service
+Size : 1005.56
+Bedrooms : 2
+Bathrooms : 2
+Name : Anirudh Asawa
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7115911600
+Reference Number : classicproperties-3814852
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 255000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Horizon Tower
+Title : Spacious 4 Bed  Apt with Maid Room | 4 Cheques
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Maid's Room, LF, Pets Allowed, SA, Shared Pool, SR, Security, MT, CV, SM, ML, PT, MO, BC, RT, Shared Gym
+Size : 2450.51
+Bedrooms : 4
+Bathrooms : 4
+Name : Richard Ileogben
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7117447577
+Reference Number : classicproperties-4502653
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 900000
+City : Dubai
+Community : Business Bay
+Sub Community : DAMAC Towers by Paramount
+Property Name : Tower C
+Title : Fully Furnished | High Floor | Luxurious Building
+Completion Status : completed
+Size : 475.23
+Bedrooms : 0
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7129127500
+Reference Number : classicproperties-4884581
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 42000
+City : Dubai
+Community : Dubai Land
+Sub Community : Skycourts Towers
+Property Name : Skycourts Tower F
+Title : Excellent Deal | Exquisite 1Bedroom | Skycourts F
+Amenities : Balcony, BP, GR, Security, CV, SM, RT
+Size : 843
+Bedrooms : 1
+Bathrooms : 1
+Name : Kiran Shetty
+Furnished : No
+
+]  [Permit Number : 7129072200
+Reference Number : classicproperties-4884594
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 50000
+City : Dubai
+Community : Dubai Land
+Sub Community : Skycourts Towers
+Property Name : Skycourts Tower D
+Title : Best Price | Two Bed | Multiple Cheques | Tower D
+Amenities : BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, HF, Shared Pool, Security, BT, NS, NM, SM, PT, VT, RT, NG, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1062.72
+Bedrooms : 2
+Bathrooms : 2
+Name : Kiran Shetty
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71228947819
+Reference Number : classicproperties-4878081
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1100000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | Luxurious 1 Bedroom | Great Location
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, FF, Shared Pool, Security, Shared Gym
+Size : 802.56
+Bedrooms : 1
+Bathrooms : 1
+Name : Sakina Ahammad
+Parking : 1
+
+]  [Permit Number : 1297861273
+Reference Number : classicproperties-4834353
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2112000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Marina Arcade Tower
+Title : Amazing Offer | 2 Bedroom Apt | No commission
+Completion Status : off_plan_primary
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, Maid's Room, LF, SA, Shared Pool, SR, View of Water, Security, MT, SG, NS, SM, PT, MO, BC, RT, Concierge Service, Shared Gym, HT
+Size : 1598.66
+Bedrooms : 2
+Bathrooms : 3
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7125136539
+Reference Number : classicproperties-5095040
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 330000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Viridis Residence and Hotel Apartments
+Property Name : Viridis D
+Title : BRAND NEW|EXCLUSIVE STUDIO| BEST PRICE
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Built-in Kitchen Appliances, MF, Shared Pool, Security, PK, NG, Shared Gym
+Size : 357
+Bedrooms : 0
+Bathrooms : 1
+Name : Lata Poojary
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7125132447
+Reference Number : classicproperties-5050015
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 425000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Viridis Residence and Hotel Apartments
+Property Name : Viridis A
+Title : Brand New | Fully Furnished Studio | Big Layout
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, FF, Shared Pool, Shared Gym
+Size : 508.37
+Bedrooms : 0
+Bathrooms : 1
+Name : Anusha Naik
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7125134027
+Reference Number : classicproperties-5042372
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 35000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Viridis Residence and Hotel Apartments
+Property Name : Viridis B
+Title : Brand New | Fully Furnished Studio | High Floor
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, FF, Shared Pool, Shared Gym
+Size : 418
+Bedrooms : 0
+Bathrooms : 1
+Name : Anusha Naik
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7148107310
+Reference Number : classicproperties-4821389
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 95000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Elite Residence
+Title : Hot Deal | 1 Bed Apt | High Floor | Unfurnished
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Private Jacuzzi, Built-in Kitchen Appliances, HF, Pets Allowed, Shared Pool, SR, NS, SM, ML, PT, MO, BC, RT, Walk-in Closet, HT
+Size : 959.28
+Bedrooms : 1
+Bathrooms : 2
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71249136016
+Reference Number : classicproperties-4388345
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 87000
+City : Dubai
+Community : Business Bay
+Sub Community : Zada Tower
+Title : Brand New|Prime Location|Beautiful View|Zada Tower
+Amenities : Central A/C & Heating, Covered Parking
+Size : 470.28
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 69380460566
+Reference Number : classicproperties-5154310
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2100000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : The Pulse
+Property Name : The Pulse Beachfront
+Title : SEMI DETACHED | 3BED PLUS MAID | PULSE BEACHFRONT
+Completion Status : off_plan_primary
+Amenities : Balcony, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, Pets Allowed, Private Garden, Shared Pool, CV, NS, HO, SM, PT, MO, VT, RT, NG, AP, Shared Gym, Walk-in Closet
+Size : 2550
+Bedrooms : 3
+Bathrooms : 4
+Name : Kiran Shetty
+Parking : 2
+
+]  [Permit Number : 69357156482
+Reference Number : classicproperties-4706873
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 1550000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : The Pulse
+Property Name : The Pulse Villas
+Title : Hot Offer|Best Location| Luxury| 2Bed| Ready Soon
+Completion Status : off plan
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Shared Pool, Security, CV, Shared Gym
+Size : 1872.29
+Bedrooms : 2
+Bathrooms : 3
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+
+]  [Permit Number : 7117517497
+Reference Number : classicproperties-5146844
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 650000
+City : Dubai
+Community : Dubai Studio City
+Sub Community : Glitz
+Property Name : Glitz 2
+Title : Fully Furnished | Amazing Location | One Bedroom
+Completion Status : completed
+Size : 673.93
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7184550127
+Reference Number : classicproperties-5140746
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1300000
+City : Dubai
+Community : Business Bay
+Sub Community : Bayz by Danube
+Title : Specious | Fully Furnished | Good Location
+Completion Status : completed
+Size : 837.22
+Bedrooms : 1
+Bathrooms : 2
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7127131842
+Reference Number : classicproperties-5147706
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 425000
+City : Dubai
+Community : Al Furjan
+Sub Community : Starz by Danube
+Title : Ready Studio | Near to Metro | Fully Furnished
+Completion Status : completed
+Size : 399.88
+Bedrooms : 0
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7131939500
+Reference Number : classicproperties-4420195
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 450000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 07
+Title : Rented Unit |Exquisite 1BHK| Open Kitchen| Remraam
+Completion Status : completed
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Shared Pool, Security, CV, Shared Gym
+Size : 668.75
+Bedrooms : 1
+Bathrooms : 1
+Name : Heba Elharery
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7110087926
+Reference Number : classicproperties-4878967
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 75000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : 29 Burj Boulevard
+Property Name : 29 Burj Boulevard Podium
+Title : Large Studio | Podium Level | Multiple Cheques
+Amenities : Balcony, BP, Built-in Wardrobes, Covered Parking, FF, Built-in Kitchen Appliances, LF, Pets Allowed, Shared Pool, Security, BT, CV, CW, NS, HO, TR, NM, SM, ML, PT, MO, VT, RT, Concierge Service, Shared Gym, Walk-in Closet
+Size : 575.1
+Bedrooms : 0
+Bathrooms : 1
+Name : Kiran Shetty
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71418161920
+Reference Number : classicproperties-4770114
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 160000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Luxurious Apt | Prime Location | Zabeel View
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, Pets Allowed, Shared Pool, Security, PT, MO, RT, Shared Gym, Walk-in Closet
+Size : 1490.8
+Bedrooms : 2
+Bathrooms : 3
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71418146035
+Reference Number : classicproperties-4157331
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2400000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : BRAND NEW | 2 BED APARTMENT | 1 RESIDENCE WEST
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Pets Allowed, Shared Pool, Security, Shared Gym
+Size : 1273.26
+Bedrooms : 2
+Bathrooms : 3
+Name : Karan Bang
+Parking : 1
+
+]  [Permit Number : 71157150902
+Reference Number : classicproperties-3870062
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 85000
+City : Dubai
+Community : Business Bay
+Sub Community : Reva Residences
+Title : Fully Furnished| Corner Apartment| Burj Canal View
+Amenities : Balcony, Covered Parking, FF, Built-in Kitchen Appliances, HF, Pets Allowed, SA, Shared Pool, SR, UI, GR, View of Water, Security, MT, CV, CW, NS, HO, SM, ML, PT, MO, VT, PK, RT, Shared Spa, Shared Gym
+Size : 476
+Bedrooms : 1
+Bathrooms : 1
+Name : Rehan Akhter
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 69285305012
+Reference Number : classicproperties-4091978
+Offering Type : Residential Rent
+Property Type : Townhouse
+Price on application : No
+Price : 1000000
+City : Dubai
+Community : Jumeirah
+Sub Community : La Mer
+Property Name : Sur La Mer
+Title : Brand New | Sea View | Ready to move in |
+Size : 4909.74
+Bedrooms : 4
+Bathrooms : 4
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 6917743238
+Reference Number : classicproperties-3607572
+Offering Type : Residential Rent
+Property Type : Villa/House
+Price on application : No
+Price : 180000
+City : Dubai
+Community : Living Legends
+Sub Community : D Villas
+Title : Best location| Large 4BR+Maids| Single Row| Vacant
+Amenities : Balcony, AN, Central A/C & Heating, Covered Parking, FF, Maid's Room, MB, Pets Allowed, Security, MT, SG, CV, NS, TR, NM, SM, VT, PK, RT, NG
+Size : 4424
+Bedrooms : 4
+Bathrooms : 4
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 1297861273
+Reference Number : classicproperties-4863473
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 3736950
+City : Dubai
+Community : Dubai Marina
+Sub Community : Marina Arcade Tower
+Title : Amazing Offer | 3 Bedroom Apt | 2% DLD Waiver
+Completion Status : off_plan_primary
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, HF, SA, Shared Pool, SR, View of Water, Security, MT, SG, NS, SM, ML, PT, MO, BC, RT, Concierge Service, Shared Gym, HT
+Size : 2410.25
+Bedrooms : 3
+Bathrooms : 4
+Name : Richard Ileogben
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 1297861273
+Reference Number : classicproperties-4865861
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2282000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Marina Arcade Tower
+Title : Hot deal | 2 Bed with Maid Room | Zero Commission
+Completion Status : off plan
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, HF, SA, Shared Pool, SR, View of Water, Security, MT, SG, NS, SM, ML, MO, BC, RT, Concierge Service, Shared Gym, HT
+Size : 1599
+Bedrooms : 2
+Bathrooms : 3
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71286916424
+Reference Number : classicproperties-3919971
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 3200000
+City : Dubai
+Community : Jumeirah
+Sub Community : La Mer
+Property Name : Port de La Mer
+Title : Exquisite 2bed| Pool view| Premium location
+Completion Status : off plan
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, LF, Pets Allowed, Shared Pool, Security, BC, Shared Gym
+Size : 1201.69
+Bedrooms : 2
+Bathrooms : 2
+Name : Anirudh Asawa
+
+]  [Permit Number : 7112439179
+Reference Number : classicproperties-4899338
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 55000
+City : Dubai
+Community : Dubai Land
+Sub Community : Queue Point
+Property Name : Mazaya 12
+Title : Spacious | Semi Closed Kitchen | Balcony
+Size : 1217
+Bedrooms : 2
+Bathrooms : 3
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7122693300
+Reference Number : classicproperties-4421118
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 70000
+City : Dubai
+Community : Motor City
+Sub Community : Norton Court
+Property Name : Norton Court 3
+Title : Spacious Layout | Prime Location | Pool Facing
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Pets Allowed, Shared Pool, CV, NS, SM, PT, PK, Shared Gym
+Size : 1037.96
+Bedrooms : 1
+Bathrooms : 2
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71359157267
+Reference Number : classicproperties-5106842
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1300000
+City : Dubai
+Community : Mohammed Bin Rashid City
+Sub Community : Sobha Hartland
+Property Name : Sobha Hartland Waves
+Title : Motivated Seller | Brand New | Burj Khalifa View
+Completion Status : off plan
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, HF, Shared Pool, Security, Shared Gym
+Size : 642
+Bedrooms : 1
+Bathrooms : 1
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71401490409
+Reference Number : classicproperties-5130511
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 139000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Binghatti Creek
+Title : Brand New | Smart Home | Spacious | Creek View
+Amenities : BP, Built-in Wardrobes, Central A/C & Heating, Shared Pool, Security, Shared Gym
+Size : 1471.43
+Bedrooms : 3
+Bathrooms : 3
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71375643865
+Reference Number : classicproperties-5130297
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 3600000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Cavalli Casa Tower
+Title : RESALE | STUNNIG 2 BED | HANDOVER Q4 2025
+Completion Status : off plan
+Amenities : Balcony, BP, BB, AN, Built-in Wardrobes, Covered Parking, Built-in Kitchen Appliances, Pets Allowed, SA, Shared Pool, Security, SM, PT, MO, Shared Spa, Shared Gym, Maid Service
+Size : 1434
+Bedrooms : 2
+Bathrooms : 3
+Name : Suneer Kollatt Ameer
+Parking : 1
+
+]  [Permit Number : 7119387800
+Reference Number : classicproperties-4897819
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 35000
+City : Dubai
+Community : International City
+Sub Community : Universal Apartments
+Title : Best Offer| 1 BHK| UNIVERSAL CBD| Balcony
+Size : 820
+Bedrooms : 1
+Bathrooms : 2
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71401494589
+Reference Number : classicproperties-4897884
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 78000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Binghatti Creek
+Title : Prime Location | Balcony | Luxurious Apartment
+Amenities : Central A/C & Heating, Shared Pool, Security, Shared Gym
+Size : 666.07
+Bedrooms : 1
+Bathrooms : 2
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7153807200
+Reference Number : classicproperties-4891959
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 33000
+City : Dubai
+Community : International City
+Sub Community : Emirates Cluster
+Property Name : IC1-EMR-16
+Title : Emirates Cluster| 1 bedroom for rent| Balcony
+Size : 729
+Bedrooms : 1
+Bathrooms : 2
+Name : Mahar Ali Shah
+Furnished : No
+
+]  [Permit Number : 71375644340
+Reference Number : classicproperties-5129543
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 3500000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Cavalli Casa Tower
+Title : 2 BED APARTMENT | RESALE | HANDOVER 2025
+Completion Status : off plan
+Size : 1366
+Bedrooms : 2
+Bathrooms : 3
+Name : Suneer Kollatt Ameer
+Parking : 1
+
+]  [Permit Number : 7117520700
+Reference Number : classicproperties-4891781
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 32000
+City : Dubai
+Community : International City
+Sub Community : Morocco Cluster
+Property Name : I12
+Title : 1 bedroom| morocco cluster|  ready to move in
+Size : 743
+Bedrooms : 1
+Bathrooms : 2
+Name : Mahar Ali Shah
+Furnished : No
+
+]  [Permit Number : 69438314746
+Reference Number : classicproperties-5069343
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2400000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Property Name : South Bay 1
+Title : Premium Unit| Signle Row| Near to Lake| Luxurious|
+Completion Status : off plan
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Maid's Room, LF, Pets Allowed, GA, Shared Pool, UI, Security, SG, CV, NS, HO, TR, SM, ML, PT, PK, RT, NG, AP, Shared Gym
+Size : 2894
+Bedrooms : 3
+Bathrooms : 4
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7129049300
+Reference Number : classicproperties-4884613
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 42000
+City : Dubai
+Community : Dubai Land
+Sub Community : Skycourts Towers
+Property Name : Skycourts Tower D
+Title : Excellent Deal | Exquisite 1 Bedroom | Skycourts D
+Amenities : Balcony, BP, GR, Security, CV, SM, RT
+Size : 843
+Bedrooms : 1
+Bathrooms : 1
+Name : Kiran Shetty
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7129068300
+Reference Number : classicproperties-4884605
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 38000
+City : Dubai
+Community : Dubai Land
+Sub Community : Skycourts Towers
+Property Name : Skycourts Tower D
+Title : Best Deal | High Floor | Spacious 1 Bedroom
+Amenities : AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, MB, HF, Private Garden, Shared Pool, GR, Security, MT, SO, SM, ML, PT, VT, RT, Shared Gym
+Size : 734
+Bedrooms : 1
+Bathrooms : 1
+Name : Kiran Shetty
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 69438314870
+Reference Number : classicproperties-5069398
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2400000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Property Name : South Bay 1
+Title : Best Offer| Near to Lake| Signle Row| Luxurious|
+Completion Status : off plan
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Maid's Room, LF, Pets Allowed, GA, Shared Pool, UI, Security, SG, CV, NS, HO, TR, SM, ML, PT, PK, RT, NG, AP, Shared Gym
+Size : 2894
+Bedrooms : 3
+Bathrooms : 4
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7146013690
+Reference Number : classicproperties-4545648
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 175000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Princess Tower
+Title : 3 Bedroom Apt with Maid Room | Partial Sea View
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Maid's Room, LF, Pets Allowed, SA, Shared Pool, SR, View of Water, Security, MT, NS, HO, SM, ML, PT, MO, BC, RT, NG, Shared Gym, Walk-in Closet, HT
+Size : 2013
+Bedrooms : 3
+Bathrooms : 4
+Name : Richard Ileogben
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7124571600
+Reference Number : classicproperties-4147322
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 925000
+City : Dubai
+Community : Dubai Sports City
+Sub Community : Golf Tower
+Title : High Floor | Golf Course View | Spacious 2-Bedroom
+Completion Status : completed
+Amenities : Balcony, AN, Covered Parking, MB, View of Water, Security, MT, BT, CV, CW, SM, ML, PT, PK, RT, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1344
+Bedrooms : 2
+Bathrooms : 3
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7129162700
+Reference Number : classicproperties-4884597
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 50000
+City : Dubai
+Community : Dubai Land
+Sub Community : Skycourts Towers
+Property Name : Skycourts Tower F
+Title : BEST OFFER |2 BEDROOM| HIGH FLOOR | GREAT VIEW
+Amenities : BP, Built-in Wardrobes, Covered Parking, FF, HF, Shared Pool, Security, BT, CV, NS, HO, NM, SM, ML, PT, VT, RT, AP, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1062.72
+Bedrooms : 2
+Bathrooms : 3
+Name : Kiran Shetty
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 65491029009
+Reference Number : classicproperties-4480792
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 950000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Mimosa
+Title : Great Deal | 3bed | Terrace | Back To Back
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, FF, Private Garden, Shared Pool, Security, CV, Shared Gym
+Size : 1238.6
+Bedrooms : 3
+Bathrooms : 3
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7123740800
+Reference Number : classicproperties-2758458
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 51489
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Lake Almas West
+Property Name : Fortune Tower
+Title : Shell and Core | 2 Month Rent Free | 4 Cheques
+Amenities : BP, Central A/C & Heating, Covered Parking, MF, View of Water, Security, SM, PT, MO, RT, DN, RA, VP, SH, NH
+Size : 1030
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7115607000
+Reference Number : classicproperties-3729178
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 120000
+City : Dubai
+Community : Jumeirah Beach Residence
+Sub Community : Bahar
+Property Name : Bahar 1
+Title : Spacious 2 Bedroom Apt | Unfurnished | 4 Cheques
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Pets Allowed, Shared Pool, Security, MT, SG, CV, SM, ML, PT, MO, BC, RT, Shared Gym
+Size : 1286.07
+Bedrooms : 2
+Bathrooms : 3
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7119645800
+Reference Number : classicproperties-4013835
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 200000
+City : Dubai
+Community : Barsha Heights (Tecom)
+Sub Community : Grosvenor Business Tower
+Title : Shell and Core | 3 Parking | 4 Cheques | Vacant
+Amenities : BP, Central A/C & Heating, Covered Parking, MF, Security, NM, SM, PT, MO, RT, RA, VP, SH, NH
+Size : 1276
+Name : Rakesh Saldanha
+Furnished : No
+
+]  [Permit Number : 71146732497
+Reference Number : classicproperties-4812809
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 450000
+City : Dubai
+Community : Dubai Sports City
+Sub Community : Canal Residence
+Property Name : Spanish Andalusian
+Title : LARGE LAYOUT | STORE ROOM |GOLF COURSE VIEW|
+Completion Status : completed
+Amenities : Balcony, BP, BB, Built-in Wardrobes, Covered Parking, MB, MF, Shared Pool, Security, BT, SG, CV, CW, NS, HO, NM, SM, ML, PT, VT, PK, RT, NG, Concierge Service, Shared Gym, Walk-in Closet
+Size : 648
+Bedrooms : 0
+Bathrooms : 1
+Name : Hitesh Agiwal
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71418151450
+Reference Number : classicproperties-4885170
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 120000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Fully Furnished | Prime Location | Next To Metro
+Amenities : BP, BB, Built-in Wardrobes, Covered Parking, Pets Allowed, Security, SM, MO, RT, Shared Gym
+Size : 898.03
+Bedrooms : 1
+Bathrooms : 2
+Name : Karan Bang
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 71418153920
+Reference Number : classicproperties-4446953
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 130000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Dubai Frame & Zabeel View | Premium Quality
+Amenities : BP, BB, Built-in Wardrobes, Covered Parking, Pets Allowed, Security, SM, MO, RT, Shared Gym
+Size : 888.24
+Bedrooms : 1
+Bathrooms : 2
+Name : Karan Bang
+Parking : 1
+
+]  [Permit Number : 7045181660
+Reference Number : classicproperties-5048629
+Offering Type : Residential Rent
+Property Type : Villa/House
+Price on application : No
+Price : 320000
+City : Dubai
+Community : Al Garhoud
+Sub Community : Garhoud Views
+Title : Brand-new 2 Storey | 5 BR with Maids + Majlis
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Maid's Room, SG, NS, HO, TR, SM, AP
+Size : 6052
+Bedrooms : 5
+Bathrooms : 7
+Name : Marlyn Arellano
+Parking : 2
+
+]  [Permit Number : 7221587600
+Reference Number : classicproperties-4531003
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 55000
+City : Dubai
+Community : Karama
+Sub Community : Shaikh Hamdan Colony
+Title : One Month FREE | 6 Cheques | Renovated 2BHK
+Amenities : Balcony, Security
+Size : 1400
+Bedrooms : 2
+Bathrooms : 2
+Name : Marlyn Arellano
+Furnished : No
+
+]  [Permit Number : 7221587000
+Reference Number : classicproperties-4502996
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 55000
+City : Dubai
+Community : Karama
+Sub Community : Shaikh Hamdan Colony
+Title : 2BHK Apartment | Heart of Karama | Best Deal
+Amenities : Balcony, Pets Allowed, Security
+Size : 1400
+Bedrooms : 2
+Bathrooms : 2
+Name : Marlyn Arellano
+Furnished : No
+
+]  [Permit Number : 7114433181
+Reference Number : classicproperties-4885794
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 50000
+City : Dubai
+Community : Jumeirah Village Triangle
+Sub Community : The Imperial Residence
+Property Name : The Imperial Residence A
+Title : 1Bedroom | Balcony | 4 Cheques | Al Khail View
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MB, MF, Pets Allowed, Shared Pool, Security, MT, NS, SM, ML, PT, VT, PK, RT, Shared Gym
+Size : 792.76
+Bedrooms : 1
+Bathrooms : 2
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7119648100
+Reference Number : classicproperties-4885010
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 95000
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Green Lake Towers
+Property Name : Green Lake Tower 3
+Title : Spacious 1 Bedroom | Near Metro | Green Lakes S3
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, Built-in Kitchen Appliances, MF, Pets Allowed, SA, Shared Pool, WF, SR, View of Water, Security, MT, SG, SM, ML, PT, MO, RT, Shared Gym, HT
+Size : 990.6
+Bedrooms : 1
+Bathrooms : 2
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 72797953926
+Reference Number : classicproperties-5077770
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 70000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Jaddaf Views
+Title : Elegant |  Spacious  | 1 bedroom Apartment |
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, FF, Shared Pool, Security, MT, Shared Gym
+Size : 914
+Bedrooms : 1
+Bathrooms : 2
+Name : Ashwin Kalantri
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 1820083056
+Reference Number : classicproperties-4088354
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 3100000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Title : 4bed Plus Maids  | Corner unit | 2k Sqft Garden
+Completion Status : off_plan_primary
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, GZ, Built-in Kitchen Appliances, Maid's Room, Pets Allowed, Private Garden, Private Pool, SA, Shared Pool, Study, GR, View of Water, Security, MT, IC, IS, SG, CV, NS, HO, NM, SM, ML, PT, MO, BC, PK, RT, NG, AP, Shared Spa, Shared Gym, Maid Service, Walk-in Closet
+Size : 4238
+Bedrooms : 4
+Bathrooms : 5
+Name : Ashwin Kalantri
+Parking : 3
+Furnished : Partly
+
+]  [Permit Number : 1854818243
+Reference Number : classicproperties-4051778
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 10300000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Imperial Avenue
+Title : Iconic Burj View I  4 Bed | Luxury Apartment I
+Completion Status : off_plan_primary
+Amenities : Balcony, BP, BB, AN, Built-in Wardrobes, CA, Central A/C & Heating, Covered Parking, DR, FF, Built-in Kitchen Appliances, Maid's Room, HF, Pets Allowed, Private Garden, Shared Pool, Study, UI, GR, View of Water, Security, BT, SG, CV, CW, NS, HO, TR, NM, SM, ML, PT, MO, VT, RT, NG, AP, Concierge Service, Shared Spa, Shared Gym, Maid Service, Walk-in Closet
+Size : 3066
+Bedrooms : 4
+Bathrooms : 5
+Name : Ashwin Kalantri
+Parking : 3
+Furnished : Partly
+
+]  [Permit Number : 1854818243
+Reference Number : classicproperties-4023209
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 3400000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Imperial Avenue
+Title : Burj Facing Tower I 2Bed | Luxury Apartment
+Completion Status : off_plan_primary
+Amenities : Balcony, BP, AN, Built-in Wardrobes, CA, Central A/C & Heating, Covered Parking, FF, Private Gym, Private Jacuzzi, Built-in Kitchen Appliances, MB, Pets Allowed, Private Garden, Private Pool, SA, Shared Pool, Study, UI, GR, Security, MT, BT, SG, CV, CW, NS, HO, TR, NM, SM, ML, PT, MO, VT, PK, RT, NG, AP, Concierge Service, Shared Gym, Maid Service, Walk-in Closet
+Size : 1509
+Bedrooms : 2
+Bathrooms : 3
+Name : Ashwin Kalantri
+Parking : 1
+Furnished : Partly
+
+]  [Permit Number : 1854818243
+Reference Number : classicproperties-4050104
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 4300000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Imperial Avenue
+Title : Brand New | Burj Khalifa View | 3Bed Apartment
+Completion Status : off_plan_primary
+Amenities : Balcony, AN, Built-in Wardrobes, CA, Central A/C & Heating, Covered Parking, FF, GZ, Built-in Kitchen Appliances, Maid's Room, MB, Pets Allowed, GA, SA, Shared Pool, SR, Study, UI, GR, Security, MT, IS, SG, CV, GV, CW, SO, EO, NS, HO, NM, MO, RT, NG, AP, Concierge Service, Shared Gym, Maid Service, Walk-in Closet
+Size : 2070
+Bedrooms : 3
+Bathrooms : 4
+Name : Ashwin Kalantri
+Parking : 2
+Furnished : Partly
+
+]  [Permit Number : 7143955500
+Reference Number : classicproperties-3875048
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 850000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 10
+Title : Hot Deal | Pool View | 2 BHK Apartment| Remraam
+Completion Status : completed
+Amenities : Balcony, BP, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, MF, Pets Allowed, Shared Pool, View of Water, Security, MT, BT, Walk-in Closet
+Size : 1598.23
+Bedrooms : 2
+Bathrooms : 3
+Name : Heba Elharery
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7117810614
+Reference Number : classicproperties-3719362
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2000000
+City : Dubai
+Community : DAMAC Hills
+Sub Community : Artesia
+Property Name : Artesia B
+Title : Furnished 3 Bed Plus Store - Damac Hills 1
+Completion Status : completed
+Amenities : Balcony, AN, Built-in Wardrobes, Built-in Kitchen Appliances, SA, Shared Pool, SR, Security, SG, GV, Shared Gym
+Size : 1650.65
+Bedrooms : 3
+Bathrooms : 3
+Name : Suneer Kollatt Ameer
+Parking : 2
+
+]  [Permit Number : 7150065300
+Reference Number : classicproperties-5020916
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 73000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 20
+Title : Amazing Deal | 2BHK | Inner Circle | Balcony
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, LF, Pets Allowed, Shared Pool, UI, GR, View of Water, Security, MT, SG, CV, NS, HO, SM, ML, PK, RT, NG, AP, Shared Gym, Walk-in Closet, HT
+Size : 997
+Bedrooms : 2
+Bathrooms : 2
+Name : Heba Elharery
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7132003300
+Reference Number : classicproperties-5086423
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 43000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 59
+Title : Best Deal | Open Kitchen | Spacious | 1 Bedroom
+Amenities : Balcony, BB, Covered Parking, Shared Pool, Security, CV, RT, Shared Gym
+Size : 688.89
+Bedrooms : 1
+Bathrooms : 1
+Name : Heba Elharery
+Parking : 1
+
+]  [Permit Number : 7131956900
+Reference Number : classicproperties-4820948
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 33000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 11
+Title : Excellent Price| Spacious Studio| Family Community
+Amenities : BB, Built-in Wardrobes, Shared Pool, Security, CV, NS, SM, RT, Shared Gym
+Size : 386.96
+Bedrooms : 0
+Bathrooms : 1
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7110222299
+Reference Number : classicproperties-4824021
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 85000
+City : Dubai
+Community : Downtown Jebel Ali
+Sub Community : Suburbia
+Property Name : Suburbia Tower 2
+Title : Fully Furnished| 3BHK |Pool View| Open Kitchen
+Amenities : Shared Pool, Shared Gym
+Size : 1615.02
+Bedrooms : 3
+Bathrooms : 3
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 71418142700
+Reference Number : classicproperties-4008636
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 145000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Luxurious Apt | Prime Location | Spacious Layout
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, Pets Allowed, Shared Pool, Security, PT, MO, RT, Shared Gym, Walk-in Closet
+Size : 1273.26
+Bedrooms : 2
+Bathrooms : 3
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7110222245
+Reference Number : classicproperties-4823993
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 45000
+City : Dubai
+Community : Downtown Jebel Ali
+Sub Community : Suburbia
+Property Name : Suburbia Tower 2
+Title : Best Choice| Fully Furnished| 1BHK | Open Kitchen
+Size : 688.24
+Bedrooms : 1
+Bathrooms : 1
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 71401507424
+Reference Number : classicproperties-4673095
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1500000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Binghatti Creek
+Title : Brand New | 2 Bedroom | High Floor | Smart Home
+Completion Status : off plan
+Amenities : Balcony
+Size : 1108.6
+Bedrooms : 2
+Bathrooms : 3
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7115954500
+Reference Number : classicproperties-4872422
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 400000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Marina Terrace
+Title : 3 Bed Penthouse | Private Pool | Amazing views
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Maid's Room, HF, Pets Allowed, Private Pool, SA, Shared Pool, SR, View of Water, Security, MT, SG, ML, MO, BC, Concierge Service, Shared Gym
+Size : 4020
+Bedrooms : 3
+Bathrooms : 5
+Name : Richard Ileogben
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7129362069
+Reference Number : classicproperties-4868283
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1000000
+City : Dubai
+Community : Business Bay
+Sub Community : Aykon City
+Property Name : Aykon City Tower C
+Title : 1BHK | Prime Spot | Unique Layout | High ROI
+Completion Status : off plan
+Size : 546.38
+Bedrooms : 1
+Bathrooms : 1
+Name : Rehan Akhter
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 1297861273
+Reference Number : classicproperties-4863364
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 3819900
+City : Dubai
+Community : Dubai Marina
+Sub Community : Marina Arcade Tower
+Title : Amazing Offer | 3 Bedroom Apt | 2% DLD Waiver
+Completion Status : off_plan_primary
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, HF, SA, Shared Pool, SR, View of Water, Security, MT, SG, NS, SM, ML, PT, MO, BC, RT, Concierge Service, Shared Gym, HT
+Size : 2410.9
+Bedrooms : 3
+Bathrooms : 4
+Name : Richard Ileogben
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7118935900
+Reference Number : classicproperties-2420611
+Offering Type : Commercial Sale
+Property Type : Retail
+Price on application : No
+Price : 7750000
+City : Dubai
+Community : Dubai Marina
+Sub Community : KG Tower
+Title : Investor Deal | Large Fitted Shop | Rented
+Completion Status : completed
+Amenities : BP, Central A/C & Heating, Covered Parking, Security, SG, NM, SM, PT, RT, DN, VP, NH
+Size : 4587.26
+Name : Rahul Bhattad
+Parking : 6
+Furnished : Yes
+
+]  [Permit Number : 7144896850
+Reference Number : classicproperties-3545571
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1100000
+City : Dubai
+Community : Remraam
+Sub Community : Al Ramth
+Property Name : Al Ramth 43
+Title : Best Price| Great Location |Exquisite 3Bed | Ramth
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, LF, Shared Pool, Security, CV, NS, NM, SM, PT, VT, PK, RT, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1496.95
+Bedrooms : 3
+Bathrooms : 4
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7116763481
+Reference Number : classicproperties-5050881
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 700000
+City : Dubai
+Community : Jumeirah Village Circle
+Sub Community : District 13
+Property Name : Reef Residence
+Title : Golf Course View | Vacant Ready to Move In
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MB, HF, Pets Allowed, Shared Pool, Security, CV, GV, CW, NS, HO, SM, ML, PT, VT, PK, RT, NG, Shared Gym
+Size : 797.82
+Bedrooms : 1
+Bathrooms : 2
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7144013330
+Reference Number : classicproperties-4862273
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 75000
+City : Dubai
+Community : Business Bay
+Sub Community : Art XV
+Title : Big Layout | Fully Fitted Kitchen | By Dubai Canal
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, MF, Pets Allowed, Shared Pool, View of Water, Security, MT, BT, SG, CV, CW, NS, HO, NM, SM, ML, PT, MO, VT, RT, NG, AP, Shared Spa, Shared Gym
+Size : 853.06
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : Partly
+
+]  [Permit Number : 6511716825
+Reference Number : classicproperties-4946643
+Offering Type : Residential Rent
+Property Type : Villa/House
+Price on application : No
+Price : 415000
+City : Dubai
+Community : Arabian Ranches 2
+Sub Community : Lila
+Title : Spacious 5 Bed + Maid Room- Lila Arabian Ranches 2
+Size : 4650
+Bedrooms : 5
+Bathrooms : 5
+Name : Suneer Kollatt Ameer
+Parking : 2
+
+]  [Permit Number : 71286916424
+Reference Number : classicproperties-4564406
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 180000
+City : Dubai
+Community : Jumeirah
+Sub Community : La Mer
+Property Name : Port de La Mer
+Title : Brand New | 2BR | High Floor | Spacious Layout
+Size : 1202
+Bedrooms : 2
+Bathrooms : 2
+Name : Anirudh Asawa
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71141738444
+Reference Number : classicproperties-5039289
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 68000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | Exquisite 1 Bedroom Apt | Great View
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, FF, Shared Pool, Security, Shared Gym
+Size : 473
+Bedrooms : 1
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+
+]  [Permit Number : 6914446200
+Reference Number : classicproperties-4783478
+Offering Type : Residential Rent
+Property Type : Villa/House
+Price on application : No
+Price : 135000
+City : Dubai
+Community : The Springs
+Sub Community : Springs 3
+Title : Type 4M | 2Bed +Study | Springs 3 | Best Location
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MB, Pets Allowed, GA, Private Garden, Shared Pool, Study, Security, SG, NS, SM, PT, VT, PK
+Size : 1837.94
+Bedrooms : 2
+Bathrooms : 3
+Name : Kiran Shetty
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 69438311026
+Reference Number : classicproperties-4087140
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 3400000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Property Name : South Bay 1
+Title : Premium 4 bedroom | Prime Location | Best Price
+Completion Status : off plan
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Maid's Room, Pets Allowed, Security, CV
+Size : 3971
+Bedrooms : 4
+Bathrooms : 5
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+
+]  [Permit Number : 71367476331
+Reference Number : classicproperties-5088101
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1400000
+City : Dubai
+Community : Business Bay
+Sub Community : Regalia By Deyaar
+Title : High Floor | Semi Furnished 1 Bedroom |Smart Home
+Completion Status : off plan
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, Shared Pool, Security, CV, CW, Shared Gym
+Size : 687
+Bedrooms : 1
+Bathrooms : 2
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Partly
+
+]  [Permit Number : 7130622400
+Reference Number : classicproperties-4856984
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 195000
+City : Dubai
+Community : Business Bay
+Sub Community : The Regal Tower
+Title : Fully Fitted Partitioned Office | Near Metro
+Amenities : BP, AN, Central A/C & Heating, Covered Parking, HF, View of Water, Security, NM, SM, PT, MO, RT, Shared Gym, DN, RA, VP, OP, NH, CR
+Size : 1601
+Bathrooms : 1
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 69404711849
+Reference Number : classicproperties-5097593
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2400000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : The Pulse
+Property Name : The Pulse Beachfront
+Title : Best Offer| Corner Unit|Single Row| Handover Soon|
+Completion Status : off plan
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, LF, Pets Allowed, Shared Pool, UI, Security, MT, CV, NS, HO, TR, SM, ML, PT, PK, RT, NG, AP, Shared Gym, Walk-in Closet, HT
+Size : 3810.6
+Bedrooms : 4
+Bathrooms : 5
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+
+]  [Permit Number : 71141723310
+Reference Number : classicproperties-5050262
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 49999
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Elegantly Furnished| Brand New | Chiller free
+Amenities : Balcony, Shared Pool, Security, BT, CV, Shared Gym
+Size : 472.1
+Bedrooms : 0
+Bathrooms : 1
+Name : Anirudh Asawa
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 71138273261
+Reference Number : classicproperties-4393045
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 499999
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Chiller Free | Studio | Brand New | Azizi Riviera
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Security
+Size : 324
+Bedrooms : 0
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+Furnished : Partly
+
+]  [Permit Number : 71102952177
+Reference Number : classicproperties-5022716
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 630000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Great View | Studio | Brand New | Azizi Riviera
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Security
+Size : 380.61
+Bedrooms : 0
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71150506404
+Reference Number : classicproperties-3993229
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 950000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Brand New | 1 Bedroom Apartment | Azizi Riviera
+Completion Status : off plan
+Size : 477
+Bedrooms : 1
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+Furnished : Partly
+
+]  [Permit Number : 7122140500
+Reference Number : classicproperties-4495634
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2400000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : The Lofts
+Property Name : The Lofts Central
+Title : Rented 2 Bedroom Apartment | Lofts Central Tower
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, MB, LF, Pets Allowed, Shared Pool, Security, CV, HO, SM, ML, PT, MO, VT, RT, Shared Gym
+Size : 1332.69
+Bedrooms : 2
+Bathrooms : 3
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7161111590
+Reference Number : classicproperties-4846632
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 440000
+City : Dubai
+Community : Dubai Production City (IMPZ)
+Sub Community : Oakwood Residency
+Title : Vacant| 1 BHK | Open Kitchen | Near City Center
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, MF, Shared Pool, Security, CV, SM, ML, PT, RT, Shared Gym
+Size : 594
+Bedrooms : 1
+Bathrooms : 1
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7129059300
+Reference Number : classicproperties-4884607
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 28000
+City : Dubai
+Community : Dubai Land
+Sub Community : Skycourts Towers
+Property Name : Skycourts Tower D
+Title : Large Studio| Higher Floor  | Skycourts |Tower D
+Amenities : BP, Built-in Wardrobes, Covered Parking, LF, Pets Allowed, Shared Pool, Security, BT, CW, NS, HO, NM, SM, PT, VT, PK, RT, NG, AP, Concierge Service, Shared Gym, Walk-in Closet
+Size : 569
+Bedrooms : 0
+Bathrooms : 1
+Name : Kiran Shetty
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 1297861273
+Reference Number : classicproperties-4833604
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2252000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Marina Arcade Tower
+Title : Hot deal | 2 Bed with Maid Room | Zero Commission
+Completion Status : off_plan_primary
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, HF, SA, Shared Pool, SR, View of Water, Security, SG, NS, SM, BC, RT, Concierge Service, Shared Gym, HT
+Size : 1599
+Bedrooms : 2
+Bathrooms : 3
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7128110780
+Reference Number : classicproperties-5090448
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1600000
+City : Dubai
+Community : Business Bay
+Sub Community : Aykon City
+Property Name : Aykon City Tower B
+Title : Brand New | Handover Soon | Luxurious Living
+Completion Status : off plan
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Shared Pool, Concierge Service, Shared Gym
+Size : 654.98
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Furnished : Yes
+
+]  [Permit Number : 69438314994
+Reference Number : classicproperties-5068921
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2400000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Property Name : South Bay 1
+Title : Close to Lake| Best Offer| Luxurious| Signle Row|
+Completion Status : off plan
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Maid's Room, LF, Pets Allowed, GA, Shared Pool, UI, Security, SG, CV, NS, HO, TR, SM, ML, PT, PK, RT, NG, AP, Shared Gym
+Size : 2894
+Bedrooms : 3
+Bathrooms : 4
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7274376000
+Reference Number : classicproperties-3983463
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 140000
+City : Dubai
+Community : Business Bay
+Sub Community : Manazel Al Safa
+Title : 2 BHK Huge Layout | White Goods | Near Metro
+Amenities : AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, HF, LF, MF, SA, Security, SG, CW, NM, SM, ML, PT, MO, VT, PK, RT
+Size : 1630
+Bedrooms : 2
+Bathrooms : 3
+Name : Abhijeet Shriniwas Somani
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 71103615770
+Reference Number : classicproperties-4844744
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 75000
+City : Dubai
+Community : DAMAC Hills
+Sub Community : Golf Vita
+Property Name : Golf Vita A
+Title : 2 Bed apartment | Golf view | Ready To Move In
+Amenities : Balcony, BP, Central A/C & Heating, Shared Pool, Security, CV, Shared Gym
+Size : 723.33
+Bedrooms : 2
+Bathrooms : 2
+Name : Suneer Kollatt Ameer
+Parking : 2
+
+]  [Permit Number : 6914191700
+Reference Number : classicproperties-5071687
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 3500000
+City : Dubai
+Community : The Springs
+Sub Community : Springs 4
+Title : Negotiable | Single Row | Type 3E | 3 Bed + Study
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MB, Pets Allowed, GA, Private Garden, Shared Pool, Study, Security, IC, SG, NS, HO, SM, ML, PT, VT, RT
+Size : 3106
+Bedrooms : 3
+Bathrooms : 4
+Name : Rahul Bhattad
+Furnished : No
+
+]  [Permit Number : 71401482704
+Reference Number : classicproperties-4981317
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 65000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Binghatti Creek
+Title : Smart Home | 1BHK| Spacious | Creek View
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Shared Pool, Security, Shared Gym
+Size : 698.47
+Bedrooms : 1
+Bathrooms : 2
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71401502664
+Reference Number : classicproperties-4728408
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 75000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Binghatti Creek
+Title : Creek view | High Floor | 1 Bed | Alexa Home
+Size : 699.7
+Bedrooms : 1
+Bathrooms : 1
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71401480709
+Reference Number : classicproperties-5068906
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 65000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Binghatti Creek
+Title : Smart Home | 1BHK | Spacious | Creek View
+Amenities : BP, Built-in Wardrobes, Central A/C & Heating, Shared Pool, Security, Shared Gym
+Size : 693.41
+Bedrooms : 1
+Bathrooms : 2
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71359124017
+Reference Number : classicproperties-5025440
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 78000
+City : Dubai
+Community : Mohammed Bin Rashid City
+Sub Community : Sobha Hartland
+Property Name : Sobha Hartland Waves
+Title : Brand New | Ready to Move In | Quality Finishing
+Amenities : Balcony, BP, Built-in Wardrobes, Pets Allowed, Security, Shared Gym
+Size : 519
+Bedrooms : 1
+Bathrooms : 1
+Name : Dievesh Sirae
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71401498104
+Reference Number : classicproperties-4502196
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 68000
+City : Dubai
+Community : Al Jaddaf
+Sub Community : Binghatti Creek
+Title : Brand New 1BR | High Floor | Smart Home
+Size : 699.72
+Bedrooms : 1
+Bathrooms : 1
+Name : Dievesh Sirae
+Furnished : No
+
+]  [Permit Number : 1539442318
+Reference Number : classicproperties-3731535
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 4990000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Luxurious Apt | Prime Location | Close to Metro
+Completion Status : off plan
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Covered Parking, MB, Shared Pool, Security, MT, BT, HO, NM, ML, PT, MO, PK, RT, AP, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1931
+Bedrooms : 3
+Bathrooms : 4
+Name : Karan Bang
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 1539442318
+Reference Number : classicproperties-3731536
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 4199999
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Luxurious Apt | Prime Location | Close to Metro
+Completion Status : off plan
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Covered Parking, MB, Shared Pool, Security, MT, BT, HO, NM, ML, PT, MO, PK, RT, AP, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1779
+Bedrooms : 3
+Bathrooms : 4
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7124383200
+Reference Number : classicproperties-3733627
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 50000
+City : Dubai
+Community : Dubai Sports City
+Sub Community : Hub-Golf Towers
+Property Name : Hub Canal 1
+Title : Spacious Layout| Prime Location in DSC | Best Deal
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Shared Pool, Security, CW, SM, PT, RT, Shared Gym
+Size : 826
+Bedrooms : 1
+Bathrooms : 2
+Name : Karan Bang
+
+]  [Permit Number : 71249127180
+Reference Number : classicproperties-5047945
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 75000
+City : Dubai
+Community : Business Bay
+Sub Community : Zada Tower
+Title : Brand New| Pool View | Prime Location | Near Metro
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Built-in Kitchen Appliances, SA, Shared Pool, SR, Security, MT, SM, ML, MO, RT, Shared Gym
+Size : 470
+Bedrooms : 1
+Bathrooms : 1
+Name : Paniz Jourabchian
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 65396526234
+Reference Number : classicproperties-5085378
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 5800000
+City : Dubai
+Community : Al Furjan
+Sub Community : Tilal Al Furjan
+Title : Exclusive | Genuine Seller | Big Plot | 4 Bed+Maid
+Completion Status : off_plan_primary
+Amenities : Balcony, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Maid's Room, MB, Pets Allowed, GA, Private Garden, Shared Pool, Study, Security, SG, CV, NS, HO, TR, SM, ML, PT, MO, VT, PK, RT, NG, Shared Gym, Walk-in Closet
+Size : 4613
+Bedrooms : 4
+Bathrooms : 6
+Name : Kiran Shetty
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7121542600
+Reference Number : classicproperties-5071067
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 6500000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Burj Khalifa Area
+Property Name : Burj Khalifa
+Title : VACANT | SEA VIEW | 2 BED | BURJ KHALIFA
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, MB, HF, Pets Allowed, Shared Pool, WF, Security, BT, CV, CW, NS, HO, NM, SM, ML, PT, MO, VT, PK, RT, NG, AP, Concierge Service, Shared Gym, Walk-in Closet
+Size : 2053
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 2
+Furnished : Partly
+
+]  [Permit Number : 69438315118
+Reference Number : classicproperties-5069505
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2400000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Property Name : South Bay 1
+Title : Rare Opportunity|Close to Lake|Luxurious| Premium|
+Completion Status : off plan
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Maid's Room, LF, Pets Allowed, GA, Shared Pool, UI, Security, SG, CV, NS, HO, TR, SM, ML, PT, PK, RT, NG, AP, Shared Gym
+Size : 2894
+Bedrooms : 3
+Bathrooms : 4
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7130748800
+Reference Number : classicproperties-2375316
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1900000
+City : Dubai
+Community : Dubai Festival City
+Sub Community : Al Badia Hillside Village
+Title : Amazing park View | Best Deal | Big Balcony
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Covered Parking, MB, MF, Shared Pool, GR, Security, BT, CV, CW, NS, HO, NM, SM, ML, PT, MO, VT, PK, RT, NG, AP, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1537.95
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7124690100
+Reference Number : classicproperties-3188499
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2900000
+City : Dubai
+Community : Palm Jumeirah
+Sub Community : Marina Residences
+Property Name : Marina Residences 1
+Title : Hot Deal | 2 bed | Type D Marina Residence 1
+Completion Status : completed
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, MB, LF, Pets Allowed, Shared Pool, View of Water, Security, SM, ML, BC, RT, Shared Gym
+Size : 1870
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 6914271500
+Reference Number : classicproperties-3823286
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 2150000
+City : Dubai
+Community : The Springs
+Sub Community : Springs 10
+Title : Make an Offer | Type - 4M | Single Row | Rented
+Completion Status : completed
+Amenities : Balcony, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MB, Pets Allowed, GA, Private Garden, Shared Pool, Study, GR, Security, IC, SG, CV, NS, HO, SM, ML, PT, VT, PK, RT
+Size : 1856.88
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7274267000
+Reference Number : classicproperties-4832897
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 135000
+City : Dubai
+Community : Business Bay
+Sub Community : Manazel Al Safa
+Title : Spacious | 2 Bedroom I Near Metro | Business Bay
+Size : 1640
+Bedrooms : 2
+Bathrooms : 3
+Name : Abhijeet Shriniwas Somani
+Furnished : No
+
+]  [Permit Number : 1278041405
+Reference Number : classicproperties-3837745
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 940000
+City : Dubai
+Community : Arjan
+Sub Community : Vincitore Volare
+Title : Prime Location| Luxurious Amenities | Elite Living
+Completion Status : off_plan_primary
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Built-in Kitchen Appliances, Pets Allowed, Shared Pool, CV, CW, SM, RT, Shared Gym, Walk-in Closet
+Size : 700
+Bedrooms : 1
+Bathrooms : 2
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 2136153931
+Reference Number : classicproperties-3836873
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 4101000
+City : Dubai
+Community : Jumeirah Golf Estates
+Sub Community : Jouri Hills
+Title : Luxury Living | New Launch | Golf Estate
+Completion Status : off_plan_primary
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Maid's Room, Pets Allowed, Private Garden, Shared Pool, CV, NS, SM, PT, RT, Shared Gym
+Size : 3160
+Bedrooms : 3
+Bathrooms : 4
+Name : Karan Bang
+
+]  [Permit Number : 1018785893
+Reference Number : classicproperties-3837028
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1199999
+City : Dubai
+Community : Dubai Silicon Oasis
+Sub Community : Tria By Deyaar
+Title : Freehold in DSO | 6 Yr Payment Plan| Dubai Skyline
+Completion Status : off_plan_primary
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, Pets Allowed, Shared Pool, Security, CV, CW, ML, MO, RT, Shared Gym, Walk-in Closet
+Size : 1245
+Bedrooms : 2
+Bathrooms : 3
+Name : Karan Bang
+
+]  [Permit Number : 7143379670
+Reference Number : classicproperties-4533848
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 35000
+City : Dubai
+Community : Remraam
+Sub Community : Al Ramth
+Property Name : Al Ramth 59
+Title : Great Deal l Studio l Open Kitchen l Al Ramth
+Amenities : BB, Shared Pool, Security, CV, Shared Gym
+Size : 468.12
+Bedrooms : 0
+Bathrooms : 1
+Name : Rahul Bhattad
+Parking : 1
+
+]  [Permit Number : 7274263000
+Reference Number : classicproperties-4831594
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 135000
+City : Dubai
+Community : Business Bay
+Sub Community : Manazel Al Safa
+Title : Best Deal | Spacious | 2 Bedroom | Business Bay
+Size : 1640
+Bedrooms : 2
+Bathrooms : 3
+Name : Abhijeet Shriniwas Somani
+Furnished : No
+
+]  [Permit Number : 7274233000
+Reference Number : classicproperties-4831215
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 135000
+City : Dubai
+Community : Business Bay
+Sub Community : Manazel Al Safa
+Title : Great View | 2 Bed I With Balcony | Business Bay
+Size : 1640
+Bedrooms : 2
+Bathrooms : 3
+Name : Abhijeet Shriniwas Somani
+Furnished : No
+
+]  [Permit Number : 7274232000
+Reference Number : classicproperties-4830320
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 135000
+City : Dubai
+Community : Business Bay
+Sub Community : Manazel Al Safa
+Title : Spacious | 2 Bedroom I With Balcony | Business Bay
+Amenities : BP, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, MF, SA, Shared Pool, SR, View of Water, Security, BT, CW, NM, SM, ML, PT, MO, RT, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1640
+Bedrooms : 2
+Bathrooms : 3
+Name : Abhijeet Shriniwas Somani
+Furnished : No
+
+]  [Permit Number : 7117755083
+Reference Number : classicproperties-3655101
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 675000
+City : Dubai
+Community : Dubai Sports City
+Sub Community : Bermuda Views
+Title : Spacious | 1 Bedroom  Apartment | Bermuda Views |
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, SA, Shared Pool, SR, Security, SM, PT, PK, RT, Shared Gym, Walk-in Closet
+Size : 910.63
+Bedrooms : 1
+Bathrooms : 2
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 69438311274
+Reference Number : classicproperties-5021787
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 3500000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Property Name : South Bay 1
+Title : On Lake| Signle Row| Semi Detached| Luxurious Unit
+Completion Status : off plan
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Maid's Room, LF, Pets Allowed, GA, Shared Pool, UI, Security, SG, CV, NS, HO, TR, SM, ML, PT, PK, RT, NG, AP, Shared Gym
+Size : 3982.68
+Bedrooms : 4
+Bathrooms : 5
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 71418154585
+Reference Number : classicproperties-4829672
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 155000
+City : Dubai
+Community : Al Kifaf
+Sub Community : Wasl1
+Property Name : 1 Residences
+Title : Luxurious Apt | Prime Location | Next To Metro
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, Pets Allowed, Shared Pool, Security, PT, MO, RT, Shared Gym, Walk-in Closet
+Size : 1273.26
+Bedrooms : 2
+Bathrooms : 3
+Name : Karan Bang
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71279510819
+Reference Number : classicproperties-5025133
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 100000
+City : Dubai
+Community : Mohammed Bin Rashid City
+Sub Community : Sobha Hartland
+Property Name : Sobha Creek Vistas Tower B
+Title : Brand New | Luxurious | Furnished | High Floor
+Size : 487
+Bedrooms : 1
+Bathrooms : 1
+Name : Anirudh Asawa
+Furnished : Yes
+
+]  [Permit Number : 7149635870
+Reference Number : classicproperties-4531801
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 330000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 13
+Title : Great Location | Studio Apartment| Al Thamam
+Completion Status : completed
+Amenities : Balcony, BP, BB, Built-in Wardrobes, Central A/C & Heating, HF, Pets Allowed, Shared Pool, Security, CV, NS, NM, SM, PK
+Size : 468.01
+Bedrooms : 0
+Bathrooms : 1
+Name : Heba Elharery
+Parking : 1
+
+]  [Permit Number : 7137446546
+Reference Number : classicproperties-3993198
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1200000
+City : Dubai
+Community : Dubai Healthcare City
+Sub Community : Azizi Aliyah
+Title : Fully Furnished |1 BHK Apartment | Large Terrace
+Completion Status : completed
+Size : 1449.26
+Bedrooms : 1
+Bathrooms : 2
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 69438326898
+Reference Number : classicproperties-5054184
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 3600000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Property Name : South Bay 1
+Title : Premium Unit| Signle Row|Semi Detached| Luxurious
+Completion Status : off plan
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Maid's Room, LF, Pets Allowed, GA, Shared Pool, UI, Security, SG, CV, NS, HO, TR, SM, ML, PT, PK, RT, NG, AP, Shared Gym
+Size : 3982.68
+Bedrooms : 4
+Bathrooms : 5
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7125135671
+Reference Number : classicproperties-5024718
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 32000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Viridis Residence and Hotel Apartments
+Title : Pool View | Beautiful Studio | High Floor
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Pets Allowed, Shared Pool, CV, Shared Gym
+Size : 425
+Bedrooms : 0
+Bathrooms : 1
+Name : Lata Poojary
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 1248761568
+Reference Number : classicproperties-3815577
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1160000
+City : Dubai
+Community : Dubai Studio City
+Sub Community : Samana Santorini
+Title : Prime Location|Pvt Plunge Pool |Pay 1% Per Month
+Completion Status : off_plan_primary
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Maid's Room, Pets Allowed, Shared Pool, Study, Security, CV, CW, SM, PT, Concierge Service, Shared Gym, Walk-in Closet
+Size : 856
+Bedrooms : 1
+Bathrooms : 2
+Name : Karan Bang
+
+]  [Permit Number : 7128874400
+Reference Number : classicproperties-3527269
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1500000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Burj Al Nujoom
+Title : Huge 2 Bedroom | Higher Floor| Canal view
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MF, Shared Pool, Security, BT, CV, CW, NS, HO, NM, SM, ML, PT, MO, VT, PK, RT, Concierge Service, Shared Gym, Walk-in Closet, HT
+Size : 1378
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7116824441
+Reference Number : classicproperties-3823233
+Offering Type : Commercial Sale
+Property Type : Office Space
+Price on application : No
+Price : 1150000
+City : Dubai
+Community : Business Bay
+Sub Community : The Binary Tower
+Title : Shell and Core Office | Podium Level | Vacant
+Completion Status : completed
+Amenities : BP, Central A/C & Heating, Covered Parking, LF, Security, SM, PT, MO, RT, RA, VP, SH, NH
+Size : 620.32
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7120117000
+Reference Number : classicproperties-3822139
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1750000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : South Ridge
+Property Name : South Ridge 5
+Title : BEST DEAL |LARGE 1BED |SOUTHRIDGE 5| HIGHER FLOOR
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, HF, Pets Allowed, Shared Pool, Security, BT, CV, CW, NS, HO, NM, SM, ML, PT, MO, VT, RT, AP, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1008
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : Partly
+
+]  [Permit Number : 7116466640
+Reference Number : classicproperties-3820172
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2450000
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Lake Almas West
+Property Name : Laguna Tower
+Title : Vacant 3 Bedroom Apt with Maid Room | Lake View
+Completion Status : completed
+Amenities : Balcony, Maid's Room, HF, View of Water
+Size : 2419.4
+Bedrooms : 3
+Bathrooms : 4
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7121604600
+Reference Number : classicproperties-3822137
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2300000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : The Lofts
+Property Name : The Lofts East
+Title : Lofts East | 2Bed | Best Layout | Boulevard View
+Completion Status : completed
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Shared Pool, Security, BT, CV, CW, NS, HO, NM, SM, ML, PT, MO, VT, PK, RT, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1433.43
+Bedrooms : 2
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 1103740001
+Reference Number : classicproperties-3837671
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 1650000
+City : Dubai
+Community : The Valley
+Sub Community : Elora
+Title : Spacious Layout |Gated Community |Luxury Living
+Completion Status : off_plan_primary
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, FF, Maid's Room, Pets Allowed, GA, Private Garden, Shared Pool, GR, Security, AP, Shared Gym
+Size : 2180
+Bedrooms : 3
+Bathrooms : 3
+Name : Karan Bang
+
+]  [Permit Number : 7110826001
+Reference Number : classicproperties-3427239
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 800000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Boulevard Plaza Towers
+Property Name : Boulevard Plaza 1
+Title : 2 Month Free | Shell and Core | 4 Cheques
+Amenities : BP, Central A/C & Heating, Covered Parking, HF, Security, SG, CW, SM, PT, MO, RT, RA, VP, SH, NH
+Size : 3674
+Name : Rakesh Saldanha
+Parking : 9
+Furnished : No
+
+]  [Permit Number : 71138783694
+Reference Number : classicproperties-5048564
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2200000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Lagoon View| Brand New 2bed| Grab the best deal
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, FF, Security
+Size : 1033
+Bedrooms : 2
+Bathrooms : 2
+Name : Sakina Ahammad
+Parking : 1
+
+]  [Permit Number : 7122229900
+Reference Number : classicproperties-3657118
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 7800000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Burj Khalifa Area
+Property Name : Burj Khalifa
+Title : 3BED+MAIDROOM|STUDY| SEA VIEW |BURJ KHALIFA
+Completion Status : completed
+Amenities : BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, MF, Shared Pool, WF, SR, Study, Security, BT, CV, CW, NS, HO, NM, SM, ML, PT, MO, VT, PK, RT, NG, AP, Concierge Service, Shared Spa, Shared Gym, Walk-in Closet
+Size : 2333
+Bedrooms : 3
+Bathrooms : 4
+Name : Rahul Bhattad
+Furnished : Partly
+
+]  [Permit Number : 7127401000
+Reference Number : classicproperties-3530385
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2450000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Park Island
+Property Name : Bonaire Tower
+Title : Investor Deal | 2 Bed | High Floor | Tenanted
+Completion Status : completed
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Pets Allowed, SA, Shared Pool, SR, View of Water, Security, MT, SG, SM, ML, PT, MO, RT, Shared Gym
+Size : 1302
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 6511753900
+Reference Number : classicproperties-3530858
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 1600000
+City : Dubai
+Community : Jumeirah Village Triangle
+Sub Community : District 3B
+Title : 1 Bed Townhouse | Rented | Close to Park
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MB, Pets Allowed, GA, Private Garden, IC, SG, CV, NS, SM, ML, VT, PK, Walk-in Closet
+Size : 1937.5
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 6511861200
+Reference Number : classicproperties-3187305
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 3250000
+City : Dubai
+Community : Jumeirah Village Triangle
+Sub Community : District 8A
+Title : Make an Offer | Large Plot | 2 Bed + Maids Villa
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, MB, Pets Allowed, GA, Private Garden, GR, Security, SG, CV, NS, TR, SM, ML, PT, RT, Walk-in Closet
+Size : 7143
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 65489593589
+Reference Number : classicproperties-4521431
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 1500000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Amazonia
+Property Name : Aknan Villas
+Title : 3 Bed + Maids | Exclusive Deal | 4 Bathrooms
+Completion Status : completed
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, FF, Maid's Room, Shared Pool, SM, PT, Shared Gym
+Size : 1881.53
+Bedrooms : 3
+Bathrooms : 4
+Name : Rahul Bhattad
+Parking : 2
+
+]  [Permit Number : 71157157106
+Reference Number : classicproperties-3972305
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 83000
+City : Dubai
+Community : Business Bay
+Sub Community : Reva Residences
+Title : Fully Furnished| 1 Bed  Apartment| Business Bay
+Amenities : Balcony, Covered Parking, FF, Built-in Kitchen Appliances, HF, Pets Allowed, SA, Shared Pool, SR, UI, GR, View of Water, Security, MT, CV, CW, NS, HO, SM, ML, PT, MO, VT, PK, RT, Shared Spa, Shared Gym
+Size : 466.29
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7124718300
+Reference Number : classicproperties-2763877
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1450000
+City : Dubai
+Community : Business Bay
+Sub Community : Executive Towers
+Property Name : Executive Tower M
+Title : Negotiable | Pool View | 1 Bedroom | Rented
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MB, MF, Pets Allowed, Shared Pool, Security, SG, CV, HO, SM, ML, PT, MO, VT, RT, Shared Gym
+Size : 1253.03
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7148104910
+Reference Number : classicproperties-3187286
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1900000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Elite Residence
+Title : Vacant 2 Bed Apt | High Floor | Partial Sea View
+Completion Status : completed
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, HF, Pets Allowed, SA, Shared Pool, SR, View of Water, Security, MT, NS, SM, ML, PT, MO, RT, Shared Gym, HT
+Size : 1330.53
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7144927680
+Reference Number : classicproperties-4814012
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 410000
+City : Dubai
+Community : Remraam
+Sub Community : Al Ramth
+Property Name : Al Ramth 37
+Title : Best Price| 1BHK| Amazing City Views |Open Kitchen
+Completion Status : completed
+Amenities : Balcony, Central A/C & Heating, Shared Pool, CV, Shared Gym
+Size : 665.21
+Bedrooms : 1
+Bathrooms : 1
+Name : Heba Elharery
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 6914916300
+Reference Number : classicproperties-3527367
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 3700000
+City : Dubai
+Community : Arabian Ranches
+Sub Community : Alma
+Property Name : Alma 1
+Title : Best location | Alma |Type 3M |3bed+Study Room
+Completion Status : completed
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, GA, Shared Pool, Study, GR, Security, MT, SG, CV, NS, HO, NM, SM, PT, VT, PK, RT, NG, Shared Gym, Walk-in Closet
+Size : 2725.96
+Bedrooms : 3
+Bathrooms : 4
+Name : Rahul Bhattad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7148104820
+Reference Number : classicproperties-3820179
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1800000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Elite Residence
+Title : Amazing 2 Bedroom Apt | High Floor | Tenanted
+Completion Status : completed
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Built-in Kitchen Appliances, HF, Pets Allowed, SA, Shared Pool, SR, View of Water, Security, MT, NS, SM, ML, PT, MO, BC, RT, Shared Gym, Walk-in Closet, HT
+Size : 1330.53
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7122060900
+Reference Number : classicproperties-3527358
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 5000000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Burj Khalifa Area
+Property Name : Burj Khalifa
+Title : Burj Khalifa | Spacious 2 Bedroom | Maid room
+Completion Status : completed
+Amenities : BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, MF, Pets Allowed, Shared Pool, WF, View of Water, Security, BT, CV, NS, HO, NM, SM, ML, PT, MO, VT, RT, Concierge Service, Shared Gym, Walk-in Closet
+Size : 2056
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 2
+Furnished : Partly
+
+]  [Permit Number : 7195870090
+Reference Number : classicproperties-3527280
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2550000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Standpoint Towers
+Property Name : Standpoint Tower 1
+Title : Best Deal Amazing View | 2 Bedroom in Standpoint
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, MF, SA, Shared Pool, Study, Security, BT, CV, CW, HO, NM, SM, ML, PT, MO, VT, RT, Concierge Service, Shared Gym, Walk-in Closet, HT
+Size : 1198
+Bedrooms : 2
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7116824242
+Reference Number : classicproperties-3995852
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 184200
+City : Dubai
+Community : Business Bay
+Sub Community : The Binary Tower
+Title : Vacant | Shell and Core Office | 4 Cheques
+Amenities : BP, Central A/C & Heating, Covered Parking, LF, Security, NM, SM, PT, MO, RT, RA, SH, NH
+Size : 921
+Name : Rakesh Saldanha
+Furnished : No
+
+]  [Permit Number : 7127869900
+Reference Number : classicproperties-4008524
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 200000
+City : Dubai
+Community : Business Bay
+Sub Community : Bayswater
+Title : Semi Fitted | Canal View | Vacant | 4 Cheques
+Amenities : BP, Central A/C & Heating, Covered Parking, MF, Security, NM, SM, PT, MO, RT, DN, RA, VP, OP, NH
+Size : 1573
+Bathrooms : 1
+Name : Rakesh Saldanha
+Parking : 2
+Furnished : Partly
+
+]  [Permit Number : 69438311150
+Reference Number : classicproperties-5021408
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 3500000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Property Name : South Bay 1
+Title : Premium Unit| On Lake| Luxurious| Ready Soon|
+Completion Status : off plan
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Maid's Room, LF, Pets Allowed, GA, Shared Pool, UI, Security, SG, CV, NS, HO, TR, SM, ML, PT, PK, RT, NG, AP, Shared Gym
+Size : 3982.68
+Bedrooms : 4
+Bathrooms : 5
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7118018060
+Reference Number : classicproperties-4008339
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 94500
+City : Dubai
+Community : Business Bay
+Sub Community : Tamani Art Tower
+Title : Shell and Core | Ready to Move In | 4 Cheques
+Amenities : BP, Central A/C & Heating, Covered Parking, MF, Security, NM, SM, PT, MO, RT, RA, VP, SH, NH
+Size : 314
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7122051600
+Reference Number : classicproperties-3822136
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 3450000
+City : Dubai
+Community : Downtown Dubai
+Sub Community : Burj Khalifa Area
+Property Name : Burj Khalifa
+Title : HIGH END LIVING | FOUNTAIN VIEW  | LARGE 1BED
+Completion Status : completed
+Amenities : BP, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, MF, Pets Allowed, Shared Pool, WF, View of Water, Security, BT, CW, HO, NM, SM, ML, PT, MO, PK, RT, Concierge Service, Shared Spa, Shared Gym, Walk-in Closet, HT
+Size : 1096
+Bedrooms : 1
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7129172300
+Reference Number : classicproperties-3527348
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 825000
+City : Dubai
+Community : Business Bay
+Sub Community : Mayfair Tower
+Title : Spacious 1 Bed | Canal View | Balcony | Rented
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, MB, LF, Pets Allowed, Shared Pool, View of Water, Security, CV, SM, PT, VT, RT, Shared Gym
+Size : 804
+Bedrooms : 1
+Bathrooms : 1
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7161108860
+Reference Number : classicproperties-3826940
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 460000
+City : Dubai
+Community : Dubai Production City (IMPZ)
+Sub Community : Oakwood Residency
+Title : Motivated Seller | 1bed | Oakwood Residency |
+Completion Status : completed
+Amenities : Balcony, Security
+Size : 626
+Bedrooms : 1
+Bathrooms : 1
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7110687976
+Reference Number : classicproperties-3827061
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 505000
+City : Dubai
+Community : Dubai Sports City
+Sub Community : Canal Residence
+Property Name : Mediterranean
+Title : Best Deal| Massive Studio | Sale| Mediterenean
+Completion Status : completed
+Amenities : Balcony, BP, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, LF, Pets Allowed, Shared Pool, Security, MT, IC, BT, ML, PK, Walk-in Closet
+Size : 582
+Bedrooms : 0
+Bathrooms : 1
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+image : "src- https://t4.ftcdn.net/jpg/02/81/89/73/360_F_281897358_3rj9ZBSZHo5s0L1ug7uuIHadSxh9Cc75.jpg"
+
+]  [Permit Number : 7114687560
+Reference Number : classicproperties-3820735
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 55000
+City : Dubai
+Community : Dubai Land
+Sub Community : Queue Point
+Property Name : Mazaya 22
+Title : Spacious | Semi Closed Kitchen | Balcony
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Security
+Size : 1018.7
+Bedrooms : 2
+Bathrooms : 3
+Name : Mahar Ali Shah
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 6511639000
+Reference Number : classicproperties-3807737
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2500000
+City : Dubai
+Community : Jumeirah Village Circle
+Sub Community : Nakheel Townhouses
+Title : Excellent Offer| Well Kept | Huge 2Bed TH| JVC|
+Completion Status : completed
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, Pets Allowed, SG, CV, NS, TR, SM, PT, PK, Walk-in Closet
+Size : 2583.34
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 6511592600
+Reference Number : classicproperties-3807754
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2500000
+City : Dubai
+Community : Jumeirah Village Circle
+Sub Community : Nakheel Townhouses
+Title : Best Opportunity| Spacious 2Bed| Nakheel TH JVC|
+Completion Status : completed
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Maid's Room, Pets Allowed, GA, Private Garden, Security, SG, CV, SM, Walk-in Closet
+Size : 2583.34
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 71249134418
+Reference Number : classicproperties-5043618
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 1000000
+City : Dubai
+Community : Business Bay
+Sub Community : Zada Tower
+Title : Furnished| Brand New|Prime Location| Amazing Views
+Completion Status : completed
+Size : 481.15
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 71103604282
+Reference Number : classicproperties-4979908
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 500000
+City : Dubai
+Community : DAMAC Hills
+Sub Community : Golf Vita
+Property Name : Golf Vita A
+Title : Motivated seller - 1 bed Golf Vita - Damac Hills
+Completion Status : completed
+Amenities : Balcony, BP, BB, Built-in Wardrobes, Pets Allowed, SA, Shared Pool, SR, NG, Shared Gym
+Size : 441
+Bedrooms : 1
+Bathrooms : 2
+Name : Suneer Kollatt Ameer
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7178376710
+Reference Number : classicproperties-3698549
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 660000
+City : Dubai
+Community : Dubai Sports City
+Sub Community : Canal Residence
+Property Name : Venetian
+Title : Best Choice| Canal View |1BHK | Venetian Residence
+Completion Status : completed
+Amenities : Balcony, BP, Built-in Wardrobes, Covered Parking, Shared Pool, SR, GR, Security, MT, CV, GV, CW, HO, SM, ML, PT, VT, RT, NG, Concierge Service
+Size : 886.84
+Bedrooms : 1
+Bathrooms : 2
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7137446546
+Reference Number : classicproperties-3996513
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 85000
+City : Dubai
+Community : Dubai Healthcare City
+Sub Community : Azizi Aliyah
+Title : Fully Furnished | 1 BHK Apartment | With Terrace
+Size : 1449.25
+Bedrooms : 1
+Bathrooms : 2
+Name : Sameera Priyadharshana Weerappulige
+Furnished : Yes
+
+]  [Permit Number : 7116824216
+Reference Number : classicproperties-3995743
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 175000
+City : Dubai
+Community : Business Bay
+Sub Community : The Binary Tower
+Title : Shell and Core | Podium Level Office | Vacant
+Amenities : BP, Central A/C & Heating, Covered Parking, LF, Security, NM, SM, PT, MO, RT, RA, VP, SH, NH
+Size : 865
+Name : Rakesh Saldanha
+Furnished : No
+
+]  [Permit Number : 7111290642
+Reference Number : classicproperties-3954252
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 600000
+City : Dubai
+Community : Jumeirah Village Circle
+Sub Community : Dana Tower
+Title : Spacious 1 Bedroom | Premium Location | JVC
+Completion Status : completed
+Size : 999.97
+Bedrooms : 1
+Bathrooms : 2
+Name : Karan Bang
+Parking : 1
+
+]  [Permit Number : 1309030576
+Reference Number : classicproperties-3831105
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 15500000
+City : Dubai
+Community : Dubai Internet City
+Sub Community : The S Tower
+Title : Sea and Palm View| Luxurious 4Bed| Prime Location
+Completion Status : off_plan_primary
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Maid's Room, Pets Allowed, Shared Pool, BT, CW, SM, ML, MO, RT, Concierge Service, Shared Gym
+Size : 5124
+Bedrooms : 4
+Bathrooms : 5
+Name : Karan Bang
+
+]  [Permit Number : 7144303980
+Reference Number : classicproperties-5043444
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 145000
+City : Dubai
+Community : Dubai Marina
+Sub Community : Botanica Tower
+Title : 2 Bed with Amazing sea view | Ready to move in
+Amenities : Balcony, BP, AN, Central A/C & Heating, Covered Parking, HF, Shared Pool, View of Water, Security, MT, SM, PT, RT, Shared Gym, HT
+Size : 1209.97
+Bedrooms : 2
+Bathrooms : 3
+Name : Richard Ileogben
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71157134922
+Reference Number : classicproperties-4495767
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 85000
+City : Dubai
+Community : Business Bay
+Sub Community : Reva Residences
+Title : Fully furnished | Canal View | Reva Residences
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Built-in Kitchen Appliances, Shared Pool, Security, TR, ML, Shared Gym
+Size : 471.46
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 6544317574
+Reference Number : classicproperties-3994029
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 1200000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Amargo
+Title : Best Deal l 3 Bed Villa l  RR-M Type
+Completion Status : completed
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Pets Allowed, Shared Pool, CV, TR, PT, PK, Shared Gym
+Size : 1498.87
+Bedrooms : 3
+Bathrooms : 3
+Name : Lata Poojary
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7143369570
+Reference Number : classicproperties-4459241
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 700000
+City : Dubai
+Community : Remraam
+Sub Community : Al Ramth
+Property Name : Al Ramth 55
+Title : Best Price | Double Balcony | Open Kitchen
+Completion Status : completed
+Amenities : Balcony, BP, BB, Built-in Wardrobes, Central A/C & Heating, FF, Pets Allowed, Shared Pool, Security, BT, CV, Shared Gym, Walk-in Closet
+Size : 1112
+Bedrooms : 2
+Bathrooms : 2
+Name : Rahul Bhattad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 7125136159
+Reference Number : classicproperties-3830161
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 400000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Viridis Residence and Hotel Apartments
+Title : Studio Apartment  | Beautiful View | Best Price |
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Built-in Kitchen Appliances, MF, Shared Pool, Security, PK, NG, Shared Gym
+Size : 418.07
+Bedrooms : 0
+Bathrooms : 1
+Name : Lata Poojary
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 6510834225
+Reference Number : classicproperties-4795098
+Offering Type : Residential Rent
+Property Type : Villa/House
+Price on application : No
+Price : 200000
+City : Dubai
+Community : DAMAC Hills
+Sub Community : Rockwood
+Title : 3 Bedroom | THL - Rockwood | Premium Location
+Amenities : BB, AN, Built-in Wardrobes, MB, Pets Allowed, Private Garden, Shared Pool, GR, View of Water, CV, PT, PK, Shared Gym, Walk-in Closet
+Size : 2950
+Bedrooms : 3
+Bathrooms : 5
+Name : Rahul Bhattad
+Parking : 3
+Furnished : No
+
+]  [Permit Number : 71249134606
+Reference Number : classicproperties-3991360
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 68000
+City : Dubai
+Community : Business Bay
+Sub Community : Zada Tower
+Title : Brand New | Near Metro | One bed | Unfurnished
+Amenities : Balcony, BP, Built-in Wardrobes, FF, GZ, SA, Shared Pool, SR, CV, Shared Gym
+Size : 410.1
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 71359158787
+Reference Number : classicproperties-5014768
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 95000
+City : Dubai
+Community : Mohammed Bin Rashid City
+Sub Community : Sobha Hartland
+Property Name : Sobha Hartland Waves
+Title : Brand New Luxurious | Burj Khalifa | High Floor
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Pets Allowed, Shared Pool, Security, Shared Gym
+Size : 519
+Bedrooms : 1
+Bathrooms : 2
+Name : Anirudh Asawa
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 0606561272
+Reference Number : classicproperties-3815362
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 5749548
+City : Dubai
+Community : Dubai Marina
+Sub Community : Liv Lux
+Title : Sea View | Signature Unit | Luxury Living
+Completion Status : off_plan_primary
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Built-in Kitchen Appliances, Pets Allowed, Shared Pool, Security, PT, Shared Gym, Maid Service
+Size : 2012
+Bedrooms : 3
+Bathrooms : 4
+Name : Karan Bang
+
+]  [Permit Number : 6533408560
+Reference Number : classicproperties-3103100
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 3499999
+City : Dubai
+Community : Dubai Sports City
+Sub Community : Victory Heights
+Property Name : Marbella Village
+Title : Brand New | 4 Bed + Maids| Large terrace
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, Maid's Room, Private Garden, Shared Pool, SG, Shared Gym, Walk-in Closet
+Size : 2658.79
+Bedrooms : 4
+Bathrooms : 4
+Name : Karan Bang
+
+]  [Permit Number : 7130073900
+Reference Number : classicproperties-3731406
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 120000
+City : Dubai
+Community : Business Bay
+Sub Community : The Metropolis
+Title : Burj Khalifa & Canal View | Shell and Core |
+Amenities : BP, Central A/C & Heating, Covered Parking, LF, Security, SM, PT, RT, RA, VP, SH, NH
+Size : 1087
+Name : Rakesh Saldanha
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 65489581091
+Reference Number : classicproperties-4461169
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 1375000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Sanctnary
+Property Name : Aurum Villas
+Title : Best Deal | 3 Bedrooms+Maids | Agent Onsite
+Completion Status : completed
+Amenities : Balcony, BB, Central A/C & Heating, Covered Parking, FF, Maid's Room, MB, Pets Allowed, Shared Pool, Security, IC, TR, PK, Shared Gym
+Size : 2453
+Bedrooms : 3
+Bathrooms : 4
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 65489581232
+Reference Number : classicproperties-4461196
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 1375000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Sanctnary
+Property Name : Aurum Villas
+Title : Agent Onsite| Exquisite 3 Bedroom | Back to back
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, FF, Maid's Room, Shared Pool, Security, CV, TR, Shared Gym, Walk-in Closet
+Size : 2453
+Bedrooms : 3
+Bathrooms : 4
+Name : Rashida Kheriwala
+Parking : 2
+
+]  [Permit Number : 7143387650
+Reference Number : classicproperties-4502853
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 50000
+City : Dubai
+Community : Remraam
+Sub Community : Al Ramth
+Property Name : Al Ramth 57
+Title : 1 Bedroom |Closed Kitchen | Vacant | Ready to Move
+Amenities : Balcony, Built-in Wardrobes, Shared Pool, Security, CV, Shared Gym
+Size : 758.32
+Bedrooms : 1
+Bathrooms : 1
+Name : Rahul Bhattad
+Parking : 1
+
+]  [Permit Number : 71249148706
+Reference Number : classicproperties-4980236
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 850000
+City : Dubai
+Community : Business Bay
+Sub Community : Zada Tower
+Title : Brand New | 1 Bed | Prime Location | Amazing ROI
+Completion Status : completed
+Size : 470
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 65489590169
+Reference Number : classicproperties-4461182
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 1450000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Sanctnary
+Property Name : Aurum Villas
+Title : Luxury living| Spacious 3bed| Maids Room|
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, Covered Parking, FF, Maid's Room, Shared Pool, Security, CV, Shared Gym, Walk-in Closet
+Size : 2453
+Bedrooms : 3
+Bathrooms : 5
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 7117954504
+Reference Number : classicproperties-5027107
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 900000
+City : Dubai
+Community : DAMAC Hills
+Sub Community : Orchid
+Property Name : Orchid A
+Title : Spacious - 1 Bed - Furnished - Orchid Tower A
+Completion Status : completed
+Amenities : Balcony, BP, BB, Built-in Wardrobes, Central A/C & Heating, Pets Allowed, SA, Shared Pool, SM, RT, Shared Gym
+Size : 887.27
+Bedrooms : 1
+Bathrooms : 2
+Name : Suneer Kollatt Ameer
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7115277500
+Reference Number : classicproperties-4860113
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 82000
+City : Dubai
+Community : Greens
+Sub Community : Al Samar
+Property Name : Al Samar 3
+Title : Premium Location I Large Terrace I Well Maintained
+Amenities : Balcony, BP, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, GZ, Built-in Kitchen Appliances, LF, Pets Allowed, Shared Pool, Security, BT, CV, NS, HO, TR, NM, SM, ML, PT, MO, VT, PK, RT, NG, AP, Shared Gym
+Size : 991
+Bedrooms : 1
+Bathrooms : 1
+Name : Rahul Bhattad
+Parking : 1
+Furnished : Partly
+
+]  [Permit Number : 7274375000
+Reference Number : classicproperties-3868466
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 140000
+City : Dubai
+Community : Business Bay
+Sub Community : Manazel Al Safa
+Title : Spacious 2BHK I13 MonthsIChiller Free|Business Bay
+Amenities : BP, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, MF, SA, Shared Pool, SR, View of Water, Security, BT, CW, NM, SM, ML, PT, MO, RT, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1640
+Bedrooms : 2
+Bathrooms : 3
+Name : Abhijeet Shriniwas Somani
+Furnished : No
+
+]  [Permit Number : 65488699398
+Reference Number : classicproperties-5001172
+Offering Type : Residential Rent
+Property Type : Townhouse
+Price on application : No
+Price : 140000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Primrose
+Title : Agent Onsite| Exquisite 5bed| Maids Room
+Amenities : Balcony, BP, Built-in Wardrobes, Covered Parking, FF, Pets Allowed, Shared Pool, Security, CV, TR
+Size : 1881
+Bedrooms : 5
+Bathrooms : 5
+Name : Vatche Saghdejian
+Parking : 2
+
+]  [Permit Number : 65397097758
+Reference Number : classicproperties-5001410
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 2400000
+City : Dubai
+Community : Damac Lagoons
+Sub Community : Portofino
+Title : Single Row - 4 BR - Luxurious Villa - Lagoons
+Completion Status : off plan
+Amenities : Balcony, BP, BB, AN, Central A/C & Heating, Pets Allowed, SA, Shared Pool, SR
+Size : 2364
+Bedrooms : 4
+Bathrooms : 4
+Name : Suneer Kollatt Ameer
+Parking : 2
+
+]  [Permit Number : 65397097762
+Reference Number : classicproperties-5001259
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 2400000
+City : Dubai
+Community : Damac Lagoons
+Sub Community : Portofino
+Title : Portofino | 4BR l Luxurious Villas I Single Row
+Completion Status : off plan
+Size : 2364
+Bedrooms : 4
+Bathrooms : 4
+Name : Suneer Kollatt Ameer
+Parking : 2
+
+]  [Permit Number : 65397097756
+Reference Number : classicproperties-5001517
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2300000
+City : Dubai
+Community : Damac Lagoons
+Sub Community : Portofino
+Title : Best Investment |Single Row |Portofino | 4Bed+Maid
+Completion Status : off plan
+Amenities : Balcony, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Pets Allowed, Private Garden, Shared Pool, Security, CV, NS, HO, NM, SM, PT, VT, RT, NG, Shared Gym, Walk-in Closet
+Size : 1550
+Bedrooms : 4
+Bathrooms : 5
+Name : Kiran Shetty
+Parking : 2
+
+]  [Permit Number : 7144510530
+Reference Number : classicproperties-3729317
+Offering Type : Residential Rent
+Property Type : Duplex
+Price on application : No
+Price : 235000
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : Lake Almas East
+Property Name : Global Lake View
+Title : Amazing 5 Bedroom Duplex with Relaxing Lake View
+Amenities : Balcony, BP, AN, Built-in Wardrobes, Central A/C & Heating, FF, Maid's Room, HF, Pets Allowed, Shared Pool, SR, View of Water, Security, MT, SG, NS, SM, ML, PT, MO, BC, PK, RT, Shared Gym
+Size : 2904.43
+Bedrooms : 5
+Bathrooms : 6
+Name : Richard Ileogben
+Parking : 3
+Furnished : No
+
+]  [Permit Number : 7150060400
+Reference Number : classicproperties-4740996
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 750000
+City : Dubai
+Community : Remraam
+Sub Community : Al Thamam
+Property Name : Al Thamam 18
+Title : Awesome Views| Well Maintained| Inner Circle | VOT
+Completion Status : completed
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, MB, MF, Pets Allowed, Private Garden, Shared Pool, UI, GR, View of Water, Security, MT, SG, CV, NS, HO, SM, ML, PT, PK, RT, NG, AP, Shared Gym, Walk-in Closet, HT
+Size : 996.63
+Bedrooms : 2
+Bathrooms : 2
+Name : Muhammad Jamil Ahmad Muhammad
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 65397097760
+Reference Number : classicproperties-5002594
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 2300000
+City : Dubai
+Community : Damac Lagoons
+Sub Community : Portofino
+Title : Portofino| Stunning Location |Single Row |
+Completion Status : off plan
+Amenities : Balcony, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Maid's Room, GA, Private Garden, Shared Pool, Security, CV, NS, HO, TR, SM, PT, VT, PK, RT, NG, Shared Gym, Walk-in Closet
+Size : 2364
+Bedrooms : 4
+Bathrooms : 5
+Name : Kiran Shetty
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 1844453271
+Reference Number : classicproperties-3815440
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 23000000
+City : Dubai
+Community : Dubai Marina
+Sub Community : LIV Marina
+Title : Penthouse | Panoramic Sea View | Signature Living
+Completion Status : off_plan_primary
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Private Gym, Private Jacuzzi, Built-in Kitchen Appliances, Maid's Room, HF, Pets Allowed, Private Pool, Shared Pool, Study, Security, IS, BT, CW, SM, ML, BC, RT, Concierge Service, Shared Spa, Shared Gym, Maid Service, Walk-in Closet
+Size : 6809
+Bedrooms : 4
+Bathrooms : 5
+Name : Karan Bang
+
+]  [Permit Number : 71136090069
+Reference Number : classicproperties-4997173
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 50000
+City : Dubai
+Community : Meydan
+Sub Community : Meydan One
+Property Name : AZIZI Riviera
+Title : Fully Furnished| Lagoon & Burj Khalifa View|
+Size : 486.31
+Bedrooms : 0
+Bathrooms : 1
+Name : Sameera Priyadharshana Weerappulige
+Parking : 1
+
+]  [Permit Number : 1382566094
+Reference Number : classicproperties-3814882
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 4303800
+City : Dubai
+Community : Mohammed Bin Rashid City
+Sub Community : District 11
+Property Name : Opal Gardens
+Title : Prime Location | Gated Community | Crystal Lagoon
+Completion Status : off_plan_primary
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Maid's Room, Private Garden, Shared Pool, GR, Security, MT, CW, Shared Gym
+Size : 3507
+Bedrooms : 4
+Bathrooms : 5
+Name : Karan Bang
+
+]  [Permit Number : 1167238533
+Reference Number : classicproperties-3814765
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 3638800
+City : Dubai
+Community : Palm Jumeirah
+Sub Community : Palm Beach Towers
+Property Name : Palm Beach Towers 3
+Title : Panoramic View | Luxurious Finish | Prime Location
+Completion Status : off_plan_primary
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Pets Allowed, Shared Pool, Security, MT, ML, BC, Shared Gym, Maid Service, Walk-in Closet
+Size : 1171
+Bedrooms : 1
+Bathrooms : 2
+Name : Karan Bang
+
+]  [Permit Number : 7144012580
+Reference Number : classicproperties-4469101
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 525000
+City : Dubai
+Community : Remraam
+Sub Community : Al Ramth
+Property Name : Al Ramth 47
+Title : Hot Deal | Podium Facing| Terrace| 1Bed| Ramth|
+Completion Status : completed
+Amenities : BP, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, LF, Pets Allowed, Shared Pool, IC, CV, NS, TR, SM, PK, RT, Shared Gym
+Size : 1181.66
+Bedrooms : 1
+Bathrooms : 1
+Name : Heba Elharery
+Parking : 1
+Furnished : No
+
+]  [Permit Number : 1820083056
+Reference Number : classicproperties-3814644
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 10800000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Title : Crystal Lagoon | Luxury Mansion | Prime Location
+Completion Status : off_plan_primary
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Private Gym, Private Jacuzzi, Built-in Kitchen Appliances, Maid's Room, Pets Allowed, Private Garden, Private Pool, Shared Pool, View of Water, Security, Shared Gym
+Size : 10947
+Bedrooms : 6
+Bathrooms : 7
+Name : Karan Bang
+
+]  [Permit Number : 1820083056
+Reference Number : classicproperties-3814633
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 9500000
+City : Dubai
+Community : Dubai South (Dubai World Central)
+Sub Community : South Bay
+Title : Luxury Mansion | Crystal Lagoon | Prime Location
+Completion Status : off_plan_primary
+Amenities : Balcony, Built-in Wardrobes, Central A/C & Heating, FF, Private Gym, Private Jacuzzi, Built-in Kitchen Appliances, Pets Allowed, Private Pool, Shared Pool, GR, View of Water, Security, SG, Shared Gym, Maid Service, Walk-in Closet
+Size : 10947
+Bedrooms : 6
+Bathrooms : 7
+Name : Karan Bang
+
+]  [Permit Number : 71157113020
+Reference Number : classicproperties-4762100
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 850000
+City : Dubai
+Community : Business Bay
+Sub Community : Reva Residences
+Title : Investors Deal| Corner Unit| 1Bed| Fully Furnished
+Completion Status : completed
+Amenities : Balcony, FF, Built-in Kitchen Appliances, MF, Pets Allowed, SA, Shared Pool, SR, View of Water, MT, SM, ML, PT, PK, RT, Shared Spa, Shared Gym
+Size : 473
+Bedrooms : 1
+Bathrooms : 1
+Name : Rehan Akhter
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 65489570630
+Reference Number : classicproperties-4461215
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 1375000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Sanctnary
+Property Name : Aurum Villas
+Title : Excellent Deal| 3Bed+ Maids |Closed Kitchen
+Completion Status : completed
+Amenities : Balcony, Central A/C & Heating, Covered Parking, Maid's Room, MF, Shared Pool, CV, Shared Gym
+Size : 1633
+Bedrooms : 3
+Bathrooms : 4
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 65489575776
+Reference Number : classicproperties-4461209
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 1400000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Sanctnary
+Property Name : Aurum Villas
+Title : 3Bed + Maids| Terrace| Agent Onsite  | Sale
+Completion Status : completed
+Amenities : Balcony, Shared Pool, IC, CV, Shared Gym
+Size : 1663
+Bedrooms : 3
+Bathrooms : 4
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 6596865670
+Reference Number : classicproperties-4996894
+Offering Type : Commercial Rent
+Property Type : Showroom
+Price on application : No
+Price : 476000
+City : Dubai
+Community : Ras Al Khor
+Sub Community : Ras Al Khor Industrial
+Property Name : Ras Al Khor Industrial 3
+Title : Prime location | Spacious showroom | Vacant
+Size : 4328.28
+Bathrooms : 3
+Name : Sakina Ahammad
+Parking : 3
+Furnished : Yes
+
+]  [Permit Number : 6596865670
+Reference Number : classicproperties-4996945
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 54000
+City : Dubai
+Community : Ras Al Khor
+Sub Community : Ras Al Khor Industrial
+Property Name : Ras Al Khor Industrial 3
+Title : Hot price | Vacant| Great location | Fitted office
+Size : 677.16
+Name : Sakina Ahammad
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7120034680
+Reference Number : classicproperties-4490082
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 900000
+City : Dubai
+Community : Business Bay
+Sub Community : DAMAC Majestine
+Title : Furnished Studio | Prime Location | Vacant
+Completion Status : completed
+Size : 479.42
+Bedrooms : 0
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7124623700
+Reference Number : classicproperties-4983793
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 69999
+City : Dubai
+Community : Dubai Sports City
+Sub Community : Hub-Golf Towers
+Property Name : Hub Canal 2
+Title : HUB CANAL 2 | 2 BHK | Chiller Free | Balcony
+Amenities : Balcony, BP, Built-in Wardrobes, Central A/C & Heating, Covered Parking, MF, Shared Pool, Security, IS, BT, CV, CW, NS, HO, NM, SM, PT, RT, Concierge Service, Shared Gym
+Size : 1173
+Bedrooms : 2
+Bathrooms : 3
+Name : Karan Bang
+Furnished : No
+
+]  [Permit Number : 7119580200
+Reference Number : classicproperties-4925082
+Offering Type : Commercial Rent
+Property Type : Office Space
+Price on application : No
+Price : 210000
+City : Dubai
+Community : Barsha Heights (Tecom)
+Sub Community : Grosvenor Business Tower
+Title : Fully Fitted Partitioned | 4 Cheques | 2 Parking
+Amenities : BP, Central A/C & Heating, Covered Parking, HF, Security, NM, SM, PT, MO, RT, Shared Gym, DN, RA, VP, OP, NH
+Size : 1401.35
+Name : Rakesh Saldanha
+Parking : 2
+Furnished : Yes
+
+]  [Permit Number : 71249135170
+Reference Number : classicproperties-4938834
+Offering Type : Residential Rent
+Property Type : Apartment/Flat
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Business Bay
+Sub Community : Zada Tower
+Title : Pool View | Fully Furnished | Brand NEW
+Amenities : Balcony, BP, BB, Built-in Wardrobes, Covered Parking, FF, Shared Pool, Security, Shared Gym
+Size : 504.39
+Bedrooms : 1
+Bathrooms : 1
+Name : Abhijeet Shriniwas Somani
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 6510971693
+Reference Number : classicproperties-4946472
+Offering Type : Residential Rent
+Property Type : Villa/House
+Price on application : No
+Price : 380000
+City : Dubai
+Community : Arabian Ranches 2
+Sub Community : Rosa
+Title : Luxurious 4 Bed Villa In Rosa - Arabian Ranches 2
+Amenities : Balcony, BB, AN, Built-in Wardrobes, Central A/C & Heating, Covered Parking, Pets Allowed, SA, Shared Pool, SR, CV, SM, PK, Concierge Service
+Size : 6544.46
+Bedrooms : 4
+Bathrooms : 4
+Name : Suneer Kollatt Ameer
+Parking : 2
+Furnished : No
+
+]  [Permit Number : 71172365711
+Reference Number : classicproperties-3920293
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2350000
+City : Dubai
+Community : Jumeirah Lake Towers
+Sub Community : MBL Residences
+Title : 2 BHK+Maids | Brand New I Fully Furnished
+Completion Status : completed
+Amenities : Balcony, BP, BB, AN, Built-in Wardrobes, CA, Central A/C & Heating, Covered Parking, FF, GZ, Built-in Kitchen Appliances, Maid's Room, HF, Pets Allowed, SA, Shared Pool, SR, GR, View of Water, Security, MT, BT, SG, CV, CW, NS, HO, NM, SM, ML, PT, MO, VT, PK, RT, NG, AP, Concierge Service, Shared Gym, Walk-in Closet
+Size : 1337
+Bedrooms : 2
+Bathrooms : 3
+Name : Rahul Bhattad
+Parking : 1
+Furnished : Yes
+
+]  [Permit Number : 7115067100
+Reference Number : classicproperties-3780127
+Offering Type : Residential Sale
+Property Type : Apartment/Flat
+Price on application : No
+Price : 2300000
+City : Dubai
+Community : Greens
+Sub Community : Al Jaz
+Property Name : Al Jaz 2
+Title : Best Price | 3 Bed | Rented | Al Jaz|
+Completion Status : completed
+Amenities : Balcony, Covered Parking, Private Garden
+Size : 1665.28
+Bedrooms : 3
+Bathrooms : 2
+Name : Anirudh Asawa
+Parking : 2
+
+]  [Permit Number : 6534094295
+Reference Number : classicproperties-3846940
+Offering Type : Residential Sale
+Property Type : Villa/House
+Price on application : No
+Price : 1000000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Basswood
+Title : Rented | Stunning 3bed | Corner Pool facing
+Completion Status : completed
+Amenities : Balcony, Built-in Wardrobes, FF, Pets Allowed, Security, MT, CV, Shared Gym
+Size : 1802.31
+Bedrooms : 3
+Bathrooms : 3
+Name : Vatche Saghdejian
+Parking : 2
+
+]  [Permit Number : 69315268023
+Reference Number : classicproperties-4523817
+Offering Type : Residential Rent
+Property Type : Villa/House
+Price on application : No
+Price : 80000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Mimosa
+Title : Beautiful | Fully Furnished | 3 Bed | Single Row
+Amenities : Balcony, BB, Built-in Wardrobes, Central A/C & Heating, Covered Parking, FF, Built-in Kitchen Appliances, Pets Allowed, Private Garden, Shared Pool, UI, Security, WO, Shared Gym
+Size : 1901.23
+Bedrooms : 3
+Bathrooms : 3
+Name : Madhav Jakhotia
+Parking : 2
+Furnished : Yes
+
+]  [Permit Number : 65489570884
+Reference Number : classicproperties-5207614
+Offering Type : Residential Sale
+Property Type : Townhouse
+Price on application : No
+Price : 1650000
+City : Dubai
+Community : Damac Hills 2
+Sub Community : Sanctnary
+Property Name : Aurum Villas
+Title : Single Row| 4bed| Open Kitchen| Genuine Seller
+Completion Status : completed
+Amenities : Balcony, BB, Covered Parking, Shared Pool, Security, CV, Walk-in Closet
+Size : 1881
+Bedrooms : 4
+Bathrooms : 5
+Name : Anirudh Asawa
+Parking : 2
+Furnished : No ]
