@@ -2,8 +2,11 @@ import argparse
 
 import os
 import json
+import re
+
 import streamlit as st
 from langchain.callbacks import StdOutCallbackHandler, FileCallbackHandler
+from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.callbacks.base import BaseCallbackManager
 from langchain.callbacks.manager import CallbackManager
 from loguru import logger
@@ -13,6 +16,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.llms import AzureOpenAI
 from langchain.chat_models import AzureChatOpenAI
 from Real_estate.tools import get_tools, setup_knowledge_base, add_knowledge_base_products_to_cache
+from Real_estate.tools import setup_knowledge_base
 
 from Real_estate.callbackhandler import MyCustomHandler
 
@@ -50,6 +54,10 @@ if __name__ == "__main__":
         serpapi_api_key = os.getenv("SERPAPI_API_KEY")
     else:
         openai_api_version = st.secrets["SERPAPI_API_KEY"]
+    if os.getenv("HUGGINGFACEHUB_API_TOKEN"):
+        HUGGINGFACEHUB_API_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN")
+    else:
+        HUGGINGFACEHUB_API_TOKEN = st.secrets["HUGGINGFACEHUB_API_TOKEN"]
 
         # Initialize argparse
     parser = argparse.ArgumentParser(description='Description of your program')
@@ -78,8 +86,9 @@ if __name__ == "__main__":
     filehandler = FileCallbackHandler(logfile)
 
     # llm = ChatOpenAI(temperature=0.2)
-    llm = AzureChatOpenAI(temperature=0.6, deployment_name="bradsol-openai-test", model_name="gpt-35-turbo",
-                          callbacks=[customhandler, filehandler], request_timeout=10, max_retries=3)
+    llm = AzureChatOpenAI(streaming=True, callbacks=[StreamingStdOutCallbackHandler(), customhandler, filehandler],
+                          temperature=0.6, deployment_name="bradsol-openai-test", model_name="gpt-35-turbo",
+                          request_timeout=10, max_retries=3)
     if not os.path.isdir('faiss_index'):
         add_knowledge_base_products_to_cache("classic_properties_list.txt")
 
@@ -117,6 +126,20 @@ if __name__ == "__main__":
         # init sales agent
         st.session_state.sales_agent.seed_agent()
         logger.info("Init Done")
+
+    with st.sidebar:
+        st.subheader("Sample Questions")
+        if "summary_ans" not in st.session_state:
+            st.session_state.sales_agent.human_step(
+                "Provide 5 sample questions related to property data in number order")
+            st.session_state.sales_agent.determine_conversation_stage()
+            st.session_state.sales_agent.step(summary=True)
+            print(st.session_state.chat_history[0])
+            # st.session_state.summary_ans = "Hello"
+            st.session_state.summary_ans = str(st.session_state.chat_history[0]).split(':')[2]
+            st.session_state.summary_ans = re.sub(r'(?<!\n)(\d+)', r'\n\1', st.session_state.summary_ans)
+            st.session_state.chat_history = []
+        st.write(st.session_state.summary_ans)
 
     if human := st.chat_input():
         print("\n")

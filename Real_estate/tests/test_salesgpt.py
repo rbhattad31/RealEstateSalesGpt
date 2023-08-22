@@ -8,7 +8,7 @@ from salesgpt.agents import SalesGPT
 class TestSalesGPT:
 
     def test_valid_inference_no_tools(self, load_env):
-        """Test that the agent will start and generate the first utterance."""
+        """Test.txt that the agent will start and generate the first utterance."""
 
         llm = ChatOpenAI(temperature=0.9)
 
@@ -42,7 +42,7 @@ class TestSalesGPT:
 
 
     def test_valid_inference_with_tools(self, load_env):
-        """Test that the agent will start and generate the first utterance."""
+        """Test.txt that the agent will start and generate the first utterance."""
 
         llm = ChatOpenAI(temperature=0.9)
 
@@ -78,7 +78,7 @@ class TestSalesGPT:
         assert len(agent_output) > 0, "Length of output needs to be greater than 0."
     
     def test_valid_inference_stream(self, load_env):
-        """Test that the agent will start and generate the first utterance when streaming."""
+        """Test.txt that the agent will start and generate the first utterance when streaming."""
 
         llm = ChatOpenAI(temperature=0.9)
         model_name = 'gpt-3.5-turbo'
