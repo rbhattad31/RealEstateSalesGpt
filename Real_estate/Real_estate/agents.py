@@ -50,7 +50,7 @@ from Real_estate.callbackhandler import MyCustomHandler
 
 def add_newlines_around_tag(text, tag="<tag>"):
     pattern = rf'({re.escape(tag)})'
-    replaced_text = re.sub(pattern, r'\n\1\n', text)
+    replaced_text = re.sub(pattern, r'\n\n\n\1\n', text)
     return replaced_text
 
 
@@ -254,16 +254,11 @@ class Real_estate(Chain, BaseModel):
                     links = []
                     for link in enumerate(src_links):
                         links.append(link)
+
                     msg = add_newlines_around_tag(msg)
-                    # msg = re.sub(pattern, "", msg)
+
+                    #msg = re.sub(pattern, "", msg)
                     if links:
-                        # col1, mid, col2 = st.columns([20, 1, 20])
-                        # with col2:
-                        #     for img in links:
-                        #         img1 = re.sub(r'\.jpg.*', '.jpg', img[1])
-                        #         st.image(img1, width=100)
-                        # with col1:
-                        #     st.chat_message('user').write(msg)
                         st.chat_message('user').markdown(msg, unsafe_allow_html=True)
                     else:
                         st.chat_message('user').write(msg)

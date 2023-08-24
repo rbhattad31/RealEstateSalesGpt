@@ -1,5 +1,7 @@
 from langchain import FAISS, GoogleSerperAPIWrapper, SerpAPIWrapper
 from langchain.agents import Tool
+from langchain.tools import WikipediaQueryRun
+from langchain.utilities import WikipediaAPIWrapper
 from langchain.chains import RetrievalQA
 from langchain.chains.query_constructor.schema import AttributeInfo
 from langchain.embeddings.openai import OpenAIEmbeddings
@@ -50,12 +52,18 @@ def setup_knowledge_base(product_catalog: str = None):
 def get_tools(knowledge_base):
     # we only use one tool for now, but this is highly extensible!
     search = SerpAPIWrapper()
+    wikipedia = WikipediaQueryRun(api_wrapper=WikipediaAPIWrapper())
 
     tools = [
         Tool(
             name="ProductSearch",
             func=knowledge_base.run,
             description="useful for when you need to answer property information like PropertyImage, FlatImage, ApartmentImage,Flats,Villa,Property Type,Price,City,Community,Sub Community,Title,Amenities,Size,Bedrooms,image and questions related to property",
+        ),
+        Tool(
+            name="NeighbourhoodSearch",
+            func=wikipedia.run,
+            description="useful for when you need to answer questions regards property neighbourhood details and features nearby property"
         )
     ]
 
