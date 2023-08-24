@@ -14,3 +14,4 @@ lark
 faiss-gpu
 google-search-results
 azure-cosmos
+wikipedia>=1.4.0
