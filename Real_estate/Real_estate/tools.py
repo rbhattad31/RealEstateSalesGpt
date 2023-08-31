@@ -41,7 +41,7 @@ def setup_knowledge_base(product_catalog: str = None):
     """
     We assume that the product catalog is simply a text string.
     """
-    llm = AzureOpenAI(temperature=0.2, deployment_name="bradsol-openai-test", model_name="gpt-35-turbo")
+    llm = AzureOpenAI(temperature=0.2, deployment_name="qnagpt5", model_name="gpt-35-turbo")
     embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
     # embeddings = OpenAIEmbeddings(deployment="bradsol-embedding-test")
     db = FAISS.load_local("faiss_index", embeddings)

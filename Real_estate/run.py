@@ -81,7 +81,7 @@ if __name__ == "__main__":
 
     # llm = ChatOpenAI(temperature=0.2)
     llm = AzureChatOpenAI(streaming=True, callbacks=[StreamingStdOutCallbackHandler(), customhandler, filehandler],
-                          temperature=0.6, deployment_name="bradsol-openai-test", model_name="gpt-35-turbo",
+                          temperature=0.6, deployment_name="qnagpt5", model_name="gpt-35-turbo",
                           request_timeout=10, max_retries=3)
     if not os.path.isdir('faiss_index'):
         add_knowledge_base_products_to_cache("classic_properties_list.txt")
